@@ -999,21 +999,17 @@ int64_t GetProofOfStakeReward(int64_t nCoinAge, int64_t nFees)
     int64_t nSubsidy = 0;
     int64_t nPresentHeight = pindexBest->nHeight + 1;
     int64_t nRewardCoinYear;
+    int64_t volume = (pindexBest->nMoneySupply)/100000000;
+    
+    nRewardCoinYear = MAX_MINT_PROOF_OF_STAKE; // Only works as a non-const non-static var -- Odd
 
-    nRewardCoinYear = MAX_MINT_PROOF_OF_STAKE; // perhaps it helps to move to a non-const non-static var?
-
-
-    if (nPresentHeight == INVESTOR_COIN_MINT_HEIGHT)
-	{
-        nSubsidy = INVESTOR_REWARD;
-    }
-    else
+    if (volume < MAX_MONEY) // Don't exceed intended coin supply
     {
-        if(nPresentHeight >= STAKING_CALCULATION_MODIFIER1_HEIGHT) // fixed staking method
+        if (nPresentHeight == INVESTOR_COIN_MINT_HEIGHT)
         {
-            nSubsidy = nCoinAge * STAKING_CALCULATION_MODIFIER1_INTEREST / 100 / 365;
+            nSubsidy = INVESTOR_REWARD;
         }
-        else // old, flawed method
+        else
         {
             if(nPresentHeight >= STAKING_CALCULATION_MODIFIER1_HEIGHT) // fixed staking method
             {
