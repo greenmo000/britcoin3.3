@@ -3,7 +3,7 @@ Visit http://britcoin.xyz for more details
 
 ====================================
 
-- BritCoin (BRIT)
+- Britcoin (BRIT)
 
 - X13 Algorithm
 

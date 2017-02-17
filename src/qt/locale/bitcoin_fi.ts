@@ -3,7 +3,7 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About BritCoin</source>
+        <source>About Britcoin</source>
         <translation>Tietoa Britcoinista</translation>
     </message>
     <message>
@@ -79,7 +79,7 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a BritCoin address</source>
+        <source>Sign a message to prove you own a Britcoin address</source>
         <translation>Allekirjoita viesti osoittaaksesi BritCoin-osoitteesi omistajuus</translation>
     </message>
     <message>
@@ -94,7 +94,7 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified BritCoin address</source>
+        <source>Verify a message to ensure it was signed with a specified Britcoin address</source>
         <translation>Vahvista viesti varmistaaksesi että kyseinen BritCoin-osoitteesi on allekirjoittanut sen</translation>
     </message>
     <message>
@@ -376,7 +376,7 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about BritCoin</source>
+        <source>Show information about Britcoin</source>
         <translation>Näytä tietoja BritCoinista</translation>
     </message>
     <message>
@@ -481,7 +481,7 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About BritCoin</source>
+        <source>&amp;About Britcoin</source>
         <translation>&amp;Tietoa BritCoinista</translation>
     </message>
     <message>
@@ -583,12 +583,12 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-312"/>
-        <source>About BritCoin card</source>
+        <source>About Britcoin card</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about BritCoin card</source>
+        <source>Show information about Britcoin card</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1764,8 +1764,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a BritCoin address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Syötä BritCoin-osoite (esim. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>Enter a Britcoin address (e.g. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</source>
+        <translation>Syötä BritCoin-osoite (esim. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1908,8 +1908,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Osoite, johon maksu lähetetään (esim. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>The address to send the payment to  (e.g. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</source>
+        <translation>Osoite, johon maksu lähetetään (esim. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1938,8 +1938,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a BritCoin address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Syötä BritCoin-osoite (esim. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>Enter a Britcoin address (e.g. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</source>
+        <translation>Syötä BritCoin-osoite (esim. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</translation>
     </message>
 </context>
 <context>
@@ -1962,8 +1962,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Osoite, jolle viesti kirjataan (esim. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>The address to sign the message with (e.g. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</source>
+        <translation>Osoite, jolle viesti kirjataan (esim. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2026,8 +2026,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Osoite, jolla viesti on allekirjoitettu (esim. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX) </translation>
+        <source>The address the message was signed with (e.g. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</source>
+        <translation>Osoite, jolla viesti on allekirjoitettu (esim. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk) </translation>
     </message>
     <message>
         <location line="+40"/>
@@ -2042,8 +2042,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a BritCoin address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Syötä BritCoin-osoite (esim. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>Enter a Britcoin address (e.g. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</source>
+        <translation>Syötä BritCoin-osoite (esim. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</translation>
     </message>
     <message>
         <location line="-2"/>

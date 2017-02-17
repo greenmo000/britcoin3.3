@@ -3,7 +3,7 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About BritCoin</source>
+        <source>About Britcoin</source>
         <translation>关于黑币</translation>
     </message>
     <message>
@@ -80,7 +80,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a BritCoin address</source>
+        <source>Sign a message to prove you own a Britcoin address</source>
         <translation>对信息进行签名以证明您对该黑币地址的所有权</translation>
     </message>
     <message>
@@ -95,7 +95,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified BritCoin address</source>
+        <source>Verify a message to ensure it was signed with a specified Britcoin address</source>
         <translation>验证信息以保证其经过指定黑币地址的签名</translation>
     </message>
     <message>
@@ -377,7 +377,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about BritCoin</source>
+        <source>Show information about Britcoin</source>
         <translation>显示关于黑币的信息</translation>
     </message>
     <message>
@@ -482,7 +482,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About BritCoin</source>
+        <source>&amp;About Britcoin</source>
         <translation>关于黑币(&amp;A)</translation>
     </message>
     <message>
@@ -584,12 +584,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-312"/>
-        <source>About BritCoin card</source>
+        <source>About Britcoin card</source>
         <translation>关于黑币卡</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about BritCoin card</source>
+        <source>Show information about Britcoin card</source>
         <translation>显示关于黑币卡的信息</translation>
     </message>
     <message>
@@ -1759,8 +1759,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a BritCoin address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>输入黑币地址(例如：Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>Enter a Britcoin address (e.g. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</source>
+        <translation>输入黑币地址(例如：BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1903,8 +1903,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>收款人地址(例：Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>The address to send the payment to  (e.g. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</source>
+        <translation>收款人地址(例：BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1933,8 +1933,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a BritCoin address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>输入一个黑币地址 (例：Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>Enter a Britcoin address (e.g. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</source>
+        <translation>输入一个黑币地址 (例：BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</translation>
     </message>
 </context>
 <context>
@@ -1957,8 +1957,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>用来签名该消息的地址(例： Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>The address to sign the message with (e.g. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</source>
+        <translation>用来签名该消息的地址(例： BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2021,8 +2021,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>用来签名该消息的黑币地址(例： Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>The address the message was signed with (e.g. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</source>
+        <translation>用来签名该消息的黑币地址(例： BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</translation>
     </message>
     <message>
         <location line="+40"/>
@@ -2037,8 +2037,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a BritCoin address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>输入黑币地址(例： Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>Enter a Britcoin address (e.g. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</source>
+        <translation>输入黑币地址(例： BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</translation>
     </message>
     <message>
         <location line="-2"/>

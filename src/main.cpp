@@ -1015,7 +1015,14 @@ int64_t GetProofOfStakeReward(int64_t nCoinAge, int64_t nFees)
         }
         else // old, flawed method
         {
-            nSubsidy = nCoinAge * nRewardCoinYear / 365 / COIN;
+            if(nPresentHeight >= STAKING_CALCULATION_MODIFIER1_HEIGHT) // fixed staking method
+            {
+                nSubsidy = nCoinAge * STAKING_CALCULATION_MODIFIER1_INTEREST / 100 / 365;
+            }
+            else // old, flawed method
+            {
+                nSubsidy = nCoinAge * nRewardCoinYear / 365 / COIN;
+            }
         }
     }
 
@@ -3041,6 +3048,30 @@ bool static ProcessMessage(CNode* pfrom, string strCommand, CDataStream& vRecv)
             
             std::size_t iFoundPosition3 = pfrom->strSubVer.find("oin:3.1.");
             if(iFoundPosition3 != std::string::npos)
+            {
+                printf("  -  disconnecting .....\n");
+                pfrom->fDisconnect = true;
+                return false;
+            }
+            
+            std::size_t iFoundPosition4 = pfrom->strSubVer.find("oin:2.");
+            if(iFoundPosition4 != std::string::npos)
+            {
+                printf("  -  disconnecting .....\n");
+                pfrom->fDisconnect = true;
+                return false;
+            }
+            
+            std::size_t iFoundPosition5 = pfrom->strSubVer.find("oin:1.");
+            if(iFoundPosition5 != std::string::npos)
+            {
+                printf("  -  disconnecting .....\n");
+                pfrom->fDisconnect = true;
+                return false;
+            }
+            
+            std::size_t iFoundPosition6 = pfrom->strSubVer.find("oin:0.");
+            if(iFoundPosition6 != std::string::npos)
             {
                 printf("  -  disconnecting .....\n");
                 pfrom->fDisconnect = true;

@@ -3,7 +3,7 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About BritCoin</source>
+        <source>About Britcoin</source>
         <translation>Au sujet de BritCoin</translation>
     </message>
     <message>
@@ -80,7 +80,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a BritCoin address</source>
+        <source>Sign a message to prove you own a Britcoin address</source>
         <translation>Signer un message afin de valider l&apos;identité de votre adresse BritCoin</translation>
     </message>
     <message>
@@ -95,7 +95,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified BritCoin address</source>
+        <source>Verify a message to ensure it was signed with a specified Britcoin address</source>
         <translation>Vérifier un message pour s&apos;assurer qu&apos;il vient d&apos;un adresse BritCoin spécifique.</translation>
     </message>
     <message>
@@ -377,7 +377,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about BritCoin</source>
+        <source>Show information about Britcoin</source>
         <translation>Afficher des informations au sujet du BritCoin</translation>
     </message>
     <message>
@@ -482,7 +482,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About BritCoin</source>
+        <source>&amp;About Britcoin</source>
         <translation>A propos de BritCoin</translation>
     </message>
     <message>
@@ -584,12 +584,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-312"/>
-        <source>About BritCoin card</source>
+        <source>About Britcoin card</source>
         <translation>Au sujet de la carte BritCoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about BritCoin card</source>
+        <source>Show information about Britcoin card</source>
         <translation>Informations sur la carte BritCoin</translation>
     </message>
     <message>
@@ -1766,8 +1766,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a BritCoin address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Entrer une adresse BritCoin (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>Enter a Britcoin address (e.g. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</source>
+        <translation>Entrer une adresse BritCoin (e.g. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1910,8 +1910,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Adresse destinataire du paiement ( ex : Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>The address to send the payment to  (e.g. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</source>
+        <translation>Adresse destinataire du paiement ( ex : BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1940,8 +1940,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a BritCoin address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Entrer une adresse BritCoin (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>Enter a Britcoin address (e.g. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</source>
+        <translation>Entrer une adresse BritCoin (e.g. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</translation>
     </message>
 </context>
 <context>
@@ -1964,8 +1964,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Entrer une adresse BritCoin (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>The address to sign the message with (e.g. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</source>
+        <translation>Entrer une adresse BritCoin (e.g. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2028,8 +2028,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>L&apos;adresse avec laquelle le message à été signé (ex: Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>The address the message was signed with (e.g. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</source>
+        <translation>L&apos;adresse avec laquelle le message à été signé (ex: BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</translation>
     </message>
     <message>
         <location line="+40"/>
@@ -2044,8 +2044,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a BritCoin address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Entrer une adresse BritCoin (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>Enter a Britcoin address (e.g. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</source>
+        <translation>Entrer une adresse BritCoin (e.g. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</translation>
     </message>
     <message>
         <location line="-2"/>
