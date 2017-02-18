@@ -65,7 +65,7 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your BritCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your Britcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>Toto sú vaše BritCoin adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, takže môžete sledovať, kto Vám platí.</translation>
     </message>
     <message>
@@ -427,7 +427,7 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a BritCoin address</source>
+        <source>Send coins to a Britcoin address</source>
         <translation>Poslať mince na BritCoin adresu</translation>
     </message>
     <message>
@@ -668,7 +668,7 @@ Adresa: %4</translation>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid BritCoin address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid Britcoin address or malformed URI parameters.</source>
         <translation>URI nemožno analyzovať! To môže byť spôsobené neplatnou BritCoin adresu alebo chybnými URI parametrami.</translation>
     </message>
     <message>
@@ -1062,7 +1062,7 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid BritCoin address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid Britcoin address.</source>
         <translation>Zadaná adresa &quot;%1&quot; nie je platnou BritCoin adresou.</translation>
     </message>
     <message>
@@ -1279,7 +1279,7 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show BritCoin addresses in the transaction list or not.</source>
+        <source>Whether to show Britcoin addresses in the transaction list or not.</source>
         <translation>Či chcete zobraziť BritCoin adresy v zozname transakcií alebo nie.</translation>
     </message>
     <message>
@@ -1865,7 +1865,7 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid BritCoin address</source>
+        <source>WARNING: Invalid Britcoin address</source>
         <translation>VAROVANIE: Neplatná BritCoin adresa</translation>
     </message>
     <message>
@@ -2000,7 +2000,7 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this BritCoin address</source>
+        <source>Sign the message to prove you own this Britcoin address</source>
         <translation>Podpísať správu ako dôkaz, že vlastníte túto BritCoin adresu</translation>
     </message>
     <message>
@@ -2032,7 +2032,7 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified BritCoin address</source>
+        <source>Verify the message to ensure it was signed with the specified Britcoin address</source>
         <translation>Overte správu, aby zabezpečilo, že bola podpísaná s danou BritCoin adresu</translation>
     </message>
     <message>

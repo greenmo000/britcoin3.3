@@ -65,7 +65,7 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your BritCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your Britcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>Dette er dine BritCoin adresser til at modtage betalinger. Du ønsker måske at give en anden en til af hver afsender, så du kan holde styr på hvem der betaler dig.</translation>
     </message>
     <message>
@@ -427,7 +427,7 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a BritCoin address</source>
+        <source>Send coins to a Britcoin address</source>
         <translation>Send mønter til en BritCoin adresse</translation>
     </message>
     <message>
@@ -669,7 +669,7 @@ Adresse: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid BritCoin address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid Britcoin address or malformed URI parameters.</source>
         <translation>URI kan ikke tolkes! Dette kan skyldes en ugyldig BritCoin adresse eller misdannede URI parametre.</translation>
     </message>
     <message>
@@ -1063,7 +1063,7 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid BritCoin address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid Britcoin address.</source>
         <translation>Den indtastede adresse &quot;%1&quot; er ikke en gyldig BritCoin adresse.</translation>
     </message>
     <message>
@@ -1280,7 +1280,7 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show BritCoin addresses in the transaction list or not.</source>
+        <source>Whether to show Britcoin addresses in the transaction list or not.</source>
         <translation>Få vist BritCoin adresser på listen over transaktioner eller ej.</translation>
     </message>
     <message>
@@ -1866,7 +1866,7 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid BritCoin address</source>
+        <source>WARNING: Invalid Britcoin address</source>
         <translation>ADVARSEL: Ugyldig BritCoin adresse</translation>
     </message>
     <message>
@@ -2001,7 +2001,7 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this BritCoin address</source>
+        <source>Sign the message to prove you own this Britcoin address</source>
         <translation>Underskriv brevet for at bevise du ejer denne BritCoin adresse</translation>
     </message>
     <message>
@@ -2033,7 +2033,7 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified BritCoin address</source>
+        <source>Verify the message to ensure it was signed with the specified Britcoin address</source>
         <translation>Kontroller meddelelsen for at sikre, at den blev indgået med den angivne BritCoin adresse</translation>
     </message>
     <message>

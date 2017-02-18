@@ -25,17 +25,29 @@ nano ~/.britcoin/britcoin.conf
 
 
 ==============================
-For the GUI (qt) version, it should just be a matter of:
+For the GUI (qt) version:
 
+sudo apt-get -y update
+sudo apt-get install -y libevent-dev git nano
+sudo apt-get install -y gcc
+sudo apt-get install -y openssl
+sudo apt-get install -y libssl-dev g++
+sudo apt-get install -y libboost-all-dev
+
+sudo apt-get install -y software-properties-common
 sudo add-apt-repository -y ppa:bitcoin/bitcoin 
 sudo apt-get update -y
-sudo apt-get install -y libboost-all-dev
 sudo apt-get install -y libdb4.8-dev libdb4.8++-dev
-sudo apt-get install -y libqt5gui5 libqt5core5a libqt5webkit5-dev libqt5dbus5 qttools5-dev qttools5-dev-tools libqrencode-dev
+
 git clone https://github.com/britcoin3/britcoin3.3.git
-cd britcoin3
+cd britcoin3.3/src
+make -f makefile.unix
+
+sudo apt-get install -y libqt5gui5 libqt5core5a libqt5webkit5-dev libqt5dbus5 qttools5-dev qttools5-dev-tools libqrencode-dev
+
+cd ..
 qmake && make
 
-If you start seeing things about qt4, use the qtchooser program to select QT 5. 
+If you start seeing errors relating to qt4, use the qtchooser program to select QT 5.  QT 5.5 is recommended.
 
 Let me know if these instructions are lacking -- I try not to reinstall too often so I might not know myself! -- Mo

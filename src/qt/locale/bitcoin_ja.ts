@@ -65,7 +65,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your BritCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your Britcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>これは支払いを受けるためのブラックコインのアドレス。支払い管理をするのため、各送信者へ、それぞれのアドレスを伝えたほうがいいです。</translation>
     </message>
     <message>
@@ -427,7 +427,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a BritCoin address</source>
+        <source>Send coins to a Britcoin address</source>
         <translation>ブラックコインアドレスへコインを送る</translation>
     </message>
     <message>
@@ -668,7 +668,7 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid BritCoin address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid Britcoin address or malformed URI parameters.</source>
         <translation>URIのパーズができませんでした！。原因は無効なブラックコインアドレスか不正なURIパラメータ。</translation>
     </message>
     <message>
@@ -1062,7 +1062,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid BritCoin address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid Britcoin address.</source>
         <translation>入力されたアドレス &quot;%1&quot; 、有効なブラックコインアドレスではない。</translation>
     </message>
     <message>
@@ -1279,7 +1279,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show BritCoin addresses in the transaction list or not.</source>
+        <source>Whether to show Britcoin addresses in the transaction list or not.</source>
         <translation>処理の歴史でブラックコインのアドレスを表示する／しない。</translation>
     </message>
     <message>
@@ -1865,7 +1865,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid BritCoin address</source>
+        <source>WARNING: Invalid Britcoin address</source>
         <translation>警告：無効なブラックコインアドレス</translation>
     </message>
     <message>
@@ -2000,7 +2000,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this BritCoin address</source>
+        <source>Sign the message to prove you own this Britcoin address</source>
         <translation>所有権の証明するためこのメサッジを署名する</translation>
     </message>
     <message>
@@ -2032,7 +2032,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified BritCoin address</source>
+        <source>Verify the message to ensure it was signed with the specified Britcoin address</source>
         <translation>受け取ったメッセージの署名を確保のため、メッセージを確認する。</translation>
     </message>
     <message>

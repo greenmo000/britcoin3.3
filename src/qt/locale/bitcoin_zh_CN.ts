@@ -65,7 +65,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your BritCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your Britcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>这是您用来接收支付的黑币地址列表。为不同的支付方建立不同的地址以便于了解支付来源。</translation>
     </message>
     <message>
@@ -427,7 +427,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a BritCoin address</source>
+        <source>Send coins to a Britcoin address</source>
         <translation>向指定的地址发送黑币</translation>
     </message>
     <message>
@@ -669,7 +669,7 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid BritCoin address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid Britcoin address or malformed URI parameters.</source>
         <translation>无法解析URI：无效的黑币地址或错误的URI参数。</translation>
     </message>
     <message>
@@ -1056,7 +1056,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid BritCoin address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid Britcoin address.</source>
         <translation>“%1” 不是有效的黑币地址。</translation>
     </message>
     <message>
@@ -1273,7 +1273,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show BritCoin addresses in the transaction list or not.</source>
+        <source>Whether to show Britcoin addresses in the transaction list or not.</source>
         <translation>是否在交易列表中显示黑币地址</translation>
     </message>
     <message>
@@ -1859,7 +1859,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid BritCoin address</source>
+        <source>WARNING: Invalid Britcoin address</source>
         <translation>警告：无效的黑币地址</translation>
     </message>
     <message>
@@ -1994,7 +1994,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this BritCoin address</source>
+        <source>Sign the message to prove you own this Britcoin address</source>
         <translation>对该消息进行签名以证明您对该黑币地址的所有权</translation>
     </message>
     <message>
@@ -2026,7 +2026,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified BritCoin address</source>
+        <source>Verify the message to ensure it was signed with the specified Britcoin address</source>
         <translation>确认该消息以保证它经由指定的黑币地址签名</translation>
     </message>
     <message>

@@ -63,7 +63,7 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your BritCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your Britcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>To so vaši BritCoin naslovi za prejemanje plačil. Priporočeno je da vsakemu pošiljatelju namenite drugega in tako dobite večji pregled nad svojimi nakazili.</translation>
     </message>
     <message>
@@ -425,7 +425,7 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a BritCoin address</source>
+        <source>Send coins to a Britcoin address</source>
         <translation>Pošlji kovance na BritCoin naslov</translation>
     </message>
     <message>
@@ -667,7 +667,7 @@ Naslov: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid BritCoin address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid Britcoin address or malformed URI parameters.</source>
         <translation>URI ne more biti razčlenjen! To se lahko zgodi zaradi neveljavnega BritCoin naslova ali slabih parametrov URI.</translation>
     </message>
     <message>
@@ -1061,7 +1061,7 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid BritCoin address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid Britcoin address.</source>
         <translation>Vneseni naslov &quot;%1&quot; ni veljaven BritCoin naslov.</translation>
     </message>
     <message>
@@ -1278,7 +1278,7 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show BritCoin addresses in the transaction list or not.</source>
+        <source>Whether to show Britcoin addresses in the transaction list or not.</source>
         <translation>Izbira prikaza BritCoin naslovov v seznamu transakcij.</translation>
     </message>
     <message>
@@ -1864,7 +1864,7 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid BritCoin address</source>
+        <source>WARNING: Invalid Britcoin address</source>
         <translation>OPOZORILO: Neveljaven BritCoin naslov</translation>
     </message>
     <message>
@@ -1999,7 +1999,7 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this BritCoin address</source>
+        <source>Sign the message to prove you own this Britcoin address</source>
         <translation>Podpišite sporočilo, kot dokazilo lastništva BritCoin naslova</translation>
     </message>
     <message>
@@ -2031,7 +2031,7 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified BritCoin address</source>
+        <source>Verify the message to ensure it was signed with the specified Britcoin address</source>
         <translation>Potrdite sporočilo, da zagotovite, da je bilo podpisano z izbranim BritCoin naslovom</translation>
     </message>
     <message>
