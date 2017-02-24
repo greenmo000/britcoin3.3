@@ -8,14 +8,14 @@
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;BritCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;BritCoin&lt;/b&gt; versio</translation>
+        <source>&lt;b&gt;Britcoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Britcoin&lt;/b&gt; versio</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The BritCoin developers</source>
+Copyright © 2014 The Britcoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -65,7 +65,7 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message>
         <location line="-46"/>
         <source>These are your Britcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Nämä ovat BritCoin-osoitteesi rahansiirtojen vastaanottoa varten. Jos haluat, voit antaa jokaiselle lähettäjälle oman osoitteen jotta voit pitää kirjaa sinulle rahaa siirtäneistä henkilöistä.</translation>
+        <translation>Nämä ovat Britcoin-osoitteesi rahansiirtojen vastaanottoa varten. Jos haluat, voit antaa jokaiselle lähettäjälle oman osoitteen jotta voit pitää kirjaa sinulle rahaa siirtäneistä henkilöistä.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,7 +80,7 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message>
         <location line="+11"/>
         <source>Sign a message to prove you own a Britcoin address</source>
-        <translation>Allekirjoita viesti osoittaaksesi BritCoin-osoitteesi omistajuus</translation>
+        <translation>Allekirjoita viesti osoittaaksesi Britcoin-osoitteesi omistajuus</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,7 +95,7 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message>
         <location line="-14"/>
         <source>Verify a message to ensure it was signed with a specified Britcoin address</source>
-        <translation>Vahvista viesti varmistaaksesi että kyseinen BritCoin-osoitteesi on allekirjoittanut sen</translation>
+        <translation>Vahvista viesti varmistaaksesi että kyseinen Britcoin-osoitteesi on allekirjoittanut sen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -262,8 +262,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-58"/>
-        <source>BritCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>BritCoin-ohjelma sulkee itsensä päättääkseen salauksen luonnin. Muista, että lompakon salaaminen ei täysin turvaa kolikoitasi haittaohjelmien aiheuttamien varkauksien uhalta.</translation>
+        <source>Britcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Britcoin-ohjelma sulkee itsensä päättääkseen salauksen luonnin. Muista, että lompakon salaaminen ei täysin turvaa kolikoitasi haittaohjelmien aiheuttamien varkauksien uhalta.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,7 +377,7 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message>
         <location line="+6"/>
         <source>Show information about Britcoin</source>
-        <translation>Näytä tietoja BritCoinista</translation>
+        <translation>Näytä tietoja Britcoinista</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,12 +427,12 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message>
         <location line="-64"/>
         <source>Send coins to a Britcoin address</source>
-        <translation>Lähetä kolikkoja BritCoin osoitteeseen</translation>
+        <translation>Lähetä kolikkoja Britcoin osoitteeseen</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for BritCoin</source>
-        <translation>Mukauta BritCoinin konfigurointiasetuksia</translation>
+        <source>Modify configuration options for Britcoin</source>
+        <translation>Mukauta Britcoinin konfigurointiasetuksia</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -471,8 +471,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-202"/>
-        <source>BritCoin</source>
-        <translation>BritCoin</translation>
+        <source>Britcoin</source>
+        <translation>Britcoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,7 +482,7 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message>
         <location line="+180"/>
         <source>&amp;About Britcoin</source>
-        <translation>&amp;Tietoa BritCoinista</translation>
+        <translation>&amp;Tietoa Britcoinista</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -538,13 +538,13 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>BritCoin client</source>
-        <translation>BritCoin-asiakas</translation>
+        <source>Britcoin client</source>
+        <translation>Britcoin-asiakas</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to BritCoin network</source>
-        <translation><numerusform>%n aktiivinen yhteys BritCoin-verkkoon</numerusform><numerusform>%n aktiivista yhteyttä BritCoin-verkkoon</numerusform></translation>
+        <source>%n active connection(s) to Britcoin network</source>
+        <translation><numerusform>%n aktiivinen yhteys Britcoin-verkkoon</numerusform><numerusform>%n aktiivista yhteyttä Britcoin-verkkoon</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -668,7 +668,7 @@ Osoite: %4</translation>
         <location line="-15"/>
         <location line="+15"/>
         <source>URI can not be parsed! This can be caused by an invalid Britcoin address or malformed URI parameters.</source>
-        <translation>URI-merkkijonoa ei voida jäsentää! Tämä voi johtua väärästä BritCoin-osoitteesta tai väärässä muodossa olevista URI-parametreistä.</translation>
+        <translation>URI-merkkijonoa ei voida jäsentää! Tämä voi johtua väärästä Britcoin-osoitteesta tai väärässä muodossa olevista URI-parametreistä.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -727,8 +727,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. BritCoin can no longer continue safely and will quit.</source>
-        <translation>Vakava virhe kohdattu. BritCoin-ohjelma ei voi enää jatkaa turvallisesti ja sulkee itsensä.</translation>
+        <source>A fatal error occurred. Britcoin can no longer continue safely and will quit.</source>
+        <translation>Vakava virhe kohdattu. Britcoin-ohjelma ei voi enää jatkaa turvallisesti ja sulkee itsensä.</translation>
     </message>
 </context>
 <context>
@@ -1062,7 +1062,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="-5"/>
         <source>The entered address &quot;%1&quot; is not a valid Britcoin address.</source>
-        <translation>Syöttämäsi osoite &quot;%1&quot; ei ole hyväksytty BritCoin-osoite.</translation>
+        <translation>Syöttämäsi osoite &quot;%1&quot; ei ole hyväksytty Britcoin-osoite.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1080,8 +1080,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>BritCoin-Qt</source>
-        <translation>BritCoin-Qt</translation>
+        <source>Britcoin-Qt</source>
+        <translation>Britcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1153,13 +1153,13 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start BritCoin after logging in to the system.</source>
-        <translation>Käynnistä BritCoin-asiakasohjelma automaattisesti kun olet kirjautunut järjestelmään.</translation>
+        <source>Automatically start Britcoin after logging in to the system.</source>
+        <translation>Käynnistä Britcoin-asiakasohjelma automaattisesti kun olet kirjautunut järjestelmään.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start BritCoin on system login</source>
-        <translation>%Käynnistä BritCoin-asiakasohjelma kirjautuessasi</translation>
+        <source>&amp;Start Britcoin on system login</source>
+        <translation>%Käynnistä Britcoin-asiakasohjelma kirjautuessasi</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1178,8 +1178,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the BritCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Avaa BritCoin-asiakkaalle automaattisesti portti reitittimestä. Tämä toimii vain, kun reitittimesi tukee UPnP:tä ja se on aktivoituna.</translation>
+        <source>Automatically open the Britcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Avaa Britcoin-asiakkaalle automaattisesti portti reitittimestä. Tämä toimii vain, kun reitittimesi tukee UPnP:tä ja se on aktivoituna.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1188,8 +1188,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the BritCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Yhdistä BritCoin-verkkoon SOCKS-välityspalvelimen lävitse. (esim. yhdistettäessä Tor:n läpi).</translation>
+        <source>Connect to the Britcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Yhdistä Britcoin-verkkoon SOCKS-välityspalvelimen lävitse. (esim. yhdistettäessä Tor:n läpi).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1263,8 +1263,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting BritCoin.</source>
-        <translation>Käyttöliittymän kieli voidaan valita tästä. Tämä asetus tulee voimaan vasta BritCoin-asiakasohjelman uudelleenkäynnistyksen jälkeen.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Britcoin.</source>
+        <translation>Käyttöliittymän kieli voidaan valita tästä. Tämä asetus tulee voimaan vasta Britcoin-asiakasohjelman uudelleenkäynnistyksen jälkeen.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1279,7 +1279,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+9"/>
         <source>Whether to show Britcoin addresses in the transaction list or not.</source>
-        <translation>Näytä tai piilota BritCoin-osoitteet rahansiirtolistassa.</translation>
+        <translation>Näytä tai piilota Britcoin-osoitteet rahansiirtolistassa.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1325,8 +1325,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting BritCoin.</source>
-        <translation>Tämä asetus tulee voimaan vasta BritCoin-asiakasohjelman uudelleenkäynnistyksen jälkeen.</translation>
+        <source>This setting will take effect after restarting Britcoin.</source>
+        <translation>Tämä asetus tulee voimaan vasta Britcoin-asiakasohjelman uudelleenkäynnistyksen jälkeen.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1344,8 +1344,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BritCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Näytettävät tiedot voivat olla vanhentuneet. Lompakkosi synkronoituu automaattisesti BritCoin-verkon kanssa kun yhteys on muodostettu, mutta tätä prosessia ei ole viety vielä päätökseen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Britcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Näytettävät tiedot voivat olla vanhentuneet. Lompakkosi synkronoituu automaattisesti Britcoin-verkon kanssa kun yhteys on muodostettu, mutta tätä prosessia ei ole viety vielä päätökseen.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1560,8 +1560,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the BritCoin-Qt help message to get a list with possible BritCoin command-line options.</source>
-        <translation>Näytä BritCoin-Qt:n avustusohje saadaksesi listan käytettävistä BritCoinin komentokehotteen määritteistä.</translation>
+        <source>Show the Britcoin-Qt help message to get a list with possible Britcoin command-line options.</source>
+        <translation>Näytä Britcoin-Qt:n avustusohje saadaksesi listan käytettävistä Britcoinin komentokehotteen määritteistä.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1580,13 +1580,13 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>BritCoin - Debug window</source>
-        <translation>BritCoin - Debug-ikkuna</translation>
+        <source>Britcoin - Debug window</source>
+        <translation>Britcoin - Debug-ikkuna</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>BritCoin Core</source>
-        <translation>BritCoinin ydin</translation>
+        <source>Britcoin Core</source>
+        <translation>Britcoinin ydin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1595,8 +1595,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the BritCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Avaa BritCoin-asiakasohjelman debug-lokitiedosto nykyisestä hakemistostaan. Tämä voi kestää muutaman sekunnin avattaessa suuria lokitiedostoja.</translation>
+        <source>Open the Britcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Avaa Britcoin-asiakasohjelman debug-lokitiedosto nykyisestä hakemistostaan. Tämä voi kestää muutaman sekunnin avattaessa suuria lokitiedostoja.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1605,8 +1605,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the BritCoin RPC console.</source>
-        <translation>Tervetuloa BritCoinin RPC-konsoliin.</translation>
+        <source>Welcome to the Britcoin RPC console.</source>
+        <translation>Tervetuloa Britcoinin RPC-konsoliin.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1765,7 +1765,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
         <source>Enter a Britcoin address (e.g. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</source>
-        <translation>Syötä BritCoin-osoite (esim. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</translation>
+        <translation>Syötä Britcoin-osoite (esim. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1865,7 +1865,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+251"/>
         <source>WARNING: Invalid Britcoin address</source>
-        <translation>VAROITUS: Epäkelpo BritCoin-osoite</translation>
+        <translation>VAROITUS: Epäkelpo Britcoin-osoite</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1939,7 +1939,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
         <source>Enter a Britcoin address (e.g. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</source>
-        <translation>Syötä BritCoin-osoite (esim. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</translation>
+        <translation>Syötä Britcoin-osoite (esim. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</translation>
     </message>
 </context>
 <context>
@@ -2000,7 +2000,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+21"/>
         <source>Sign the message to prove you own this Britcoin address</source>
-        <translation>Allekirjoita viesti vahvistaaksesi, että omistat tämän BritCoin-osoitteen</translation>
+        <translation>Allekirjoita viesti vahvistaaksesi, että omistat tämän Britcoin-osoitteen</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2032,7 +2032,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+40"/>
         <source>Verify the message to ensure it was signed with the specified Britcoin address</source>
-        <translation>Vahvista viesti varmistaaksesi että se on allekirjoitettu kyseisellä BritCoin-osoitteella</translation>
+        <translation>Vahvista viesti varmistaaksesi että se on allekirjoitettu kyseisellä Britcoin-osoitteella</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2043,7 +2043,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
         <source>Enter a Britcoin address (e.g. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</source>
-        <translation>Syötä BritCoin-osoite (esim. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</translation>
+        <translation>Syötä Britcoin-osoite (esim. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2052,8 +2052,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter BritCoin signature</source>
-        <translation>Syötä BritCoin-allekirjoitus</translation>
+        <source>Enter Britcoin signature</source>
+        <translation>Syötä Britcoin-allekirjoitus</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2623,8 +2623,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>BritCoin version</source>
-        <translation>BritCoinin versio</translation>
+        <source>Britcoin version</source>
+        <translation>Britcoinin versio</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2808,8 +2808,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong BritCoin will not work properly.</source>
-        <translation>Varoitus: Tarkista, että tietokoneesi aika ja päivämäärä ovat oikeassa! Jos kellosi on väärässä, BritCoin ei toimi oikein.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Britcoin will not work properly.</source>
+        <translation>Varoitus: Tarkista, että tietokoneesi aika ja päivämäärä ovat oikeassa! Jos kellosi on väärässä, Britcoin ei toimi oikein.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -3004,7 +3004,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;BritCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Britcoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, sinun on asetettava rpcpassword asetustiedostoon:
 %s
@@ -3014,7 +3014,7 @@ rpcpassword=%s
 (Sinun ei tarvitse muistaa tätä salasanaa)
 Käyttäjänimen ja salasanan EI TULE OLLA SAMOJA.
 Jos tiedostoa ei ole olemassa, luo se asettaen samalla omistajan lukuoikeudet.
-On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; esimerkiksi: alertnotify=echo %%s | mail -s &quot;BritCoin Alert&quot; admin@foo.com
+On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; esimerkiksi: alertnotify=echo %%s | mail -s &quot;Britcoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3139,13 +3139,13 @@ On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; e
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  BritCoin is probably already running.</source>
-        <translation>Ei voida saavuttaa lukkoa datatiedostossa %s. BritCoin-asiakasohjelma on ehkä jo käynnissä.</translation>
+        <source>Cannot obtain a lock on data directory %s.  Britcoin is probably already running.</source>
+        <translation>Ei voida saavuttaa lukkoa datatiedostossa %s. Britcoin-asiakasohjelma on ehkä jo käynnissä.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>BritCoin</source>
-        <translation>BritCoin</translation>
+        <source>Britcoin</source>
+        <translation>Britcoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3179,13 +3179,13 @@ On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; e
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of BritCoin</source>
-        <translation>Virhe ladattaessa wallet.dat-tiedostoa: Lompakko tarvitsee uudemman version BritCoin-asiakasohjelmasta</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Britcoin</source>
+        <translation>Virhe ladattaessa wallet.dat-tiedostoa: Lompakko tarvitsee uudemman version Britcoin-asiakasohjelmasta</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart BritCoin to complete</source>
-        <translation>Lompakko on kirjoitettava uudelleen: käynnistä BritCoin-asiakasohjelma uudelleen päättääksesi toiminnon</translation>
+        <source>Wallet needed to be rewritten: restart Britcoin to complete</source>
+        <translation>Lompakko on kirjoitettava uudelleen: käynnistä Britcoin-asiakasohjelma uudelleen päättääksesi toiminnon</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3254,8 +3254,8 @@ On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; e
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. BritCoin is probably already running.</source>
-        <translation>Ei voitu liittää %s tällä tietokoneella. BritCoin-asiakasohjelma on jo ehkä päällä.</translation>
+        <source>Unable to bind to %s on this computer. Britcoin is probably already running.</source>
+        <translation>Ei voitu liittää %s tällä tietokoneella. Britcoin-asiakasohjelma on jo ehkä päällä.</translation>
     </message>
     <message>
         <location line="-97"/>

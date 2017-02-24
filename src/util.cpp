@@ -1009,13 +1009,13 @@ void PrintExceptionContinue(std::exception* pex, const char* pszThread)
 boost::filesystem::path GetDefaultDataDir()
 {
     namespace fs = boost::filesystem;
-    // Windows < Vista: C:\Documents and Settings\Username\Application Data\BritCoin
-    // Windows >= Vista: C:\Users\Username\AppData\Roaming\BritCoin
-    // Mac: ~/Library/Application Support/BritCoin
+    // Windows < Vista: C:\Documents and Settings\Username\Application Data\Britcoin
+    // Windows >= Vista: C:\Users\Username\AppData\Roaming\Britcoin
+    // Mac: ~/Library/Application Support/Britcoin
     // Unix: ~/.britcoin
 #ifdef WIN32
     // Windows
-    return GetSpecialFolderPath(CSIDL_APPDATA) / "BritCoin";
+    return GetSpecialFolderPath(CSIDL_APPDATA) / "Britcoin";
 #else
     fs::path pathRet;
     char* pszHome = getenv("HOME");
@@ -1027,7 +1027,7 @@ boost::filesystem::path GetDefaultDataDir()
     // Mac
     pathRet /= "Library/Application Support";
     fs::create_directory(pathRet);
-    return pathRet / "BritCoin";
+    return pathRet / "Britcoin";
 #else
     // Unix
     return pathRet / ".britcoin";
@@ -1233,10 +1233,10 @@ void AddTimeData(const CNetAddr& ip, int64_t nTime)
                 if (!fMatch)
                 {
                     fDone = true;
-                    string strMessage = _("Warning: Please check that your computer's date and time are correct! If your clock is wrong BritCoin will not work properly.");
+                    string strMessage = _("Warning: Please check that your computer's date and time are correct! If your clock is wrong Britcoin will not work properly.");
                     strMiscWarning = strMessage;
                     printf("*** %s\n", strMessage.c_str());
-                    uiInterface.ThreadSafeMessageBox(strMessage+" ", string("BritCoin"), CClientUIInterface::OK | CClientUIInterface::ICON_EXCLAMATION);
+                    uiInterface.ThreadSafeMessageBox(strMessage+" ", string("Britcoin"), CClientUIInterface::OK | CClientUIInterface::ICON_EXCLAMATION);
                 }
             }
         }

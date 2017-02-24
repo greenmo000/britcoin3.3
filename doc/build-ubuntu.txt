@@ -41,13 +41,15 @@ sudo apt-get install -y libdb4.8-dev libdb4.8++-dev
 
 git clone https://github.com/britcoin3/britcoin3.3.git
 cd britcoin3.3/src
-make -f makefile.unix
+make -f makefile.unix USE_UPNP=0
 
 sudo apt-get install -y libqt5gui5 libqt5core5a libqt5webkit5-dev libqt5dbus5 qttools5-dev qttools5-dev-tools libqrencode-dev
 
 cd ..
 qmake && make
 
-If you start seeing errors relating to qt4, use the qtchooser program to select QT 5.  QT 5.5 is recommended.
+If you start seeing errors relating to qt4, use the qtchooser program to select QT 5, or explicitly use the QT version you want to use (e.g. ~/Qt5.5.0/5.5/gcc_64/bin/qmake && make )
+
+QT 5.5 is recommended.
 
 Let me know if these instructions are lacking -- I try not to reinstall too often so I might not know myself! -- Mo

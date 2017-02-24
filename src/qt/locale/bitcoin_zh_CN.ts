@@ -8,17 +8,17 @@
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;BritCoin&lt;/b&gt; version</source>
+        <source>&lt;b&gt;Britcoin&lt;/b&gt; version</source>
         <translation>黑币客户端 版本</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The BritCoin developers</source>
+Copyright © 2014 The Britcoin developers</source>
         <translation>版权所有 © 2009-2014 比特币Bitcoin开发组
 版权所有 © 2012-2014 新星币Novacoin开发组
-版权所有 © 2014 黑币BritCoin开发组</translation>
+版权所有 © 2014 黑币Britcoin开发组</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -263,7 +263,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>BritCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <source>Britcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
         <translation>黑币客户端即将关闭以完成加密过程。请记住，加密钱包并不能完全防止您的电子货币被入侵您计算机的木马软件盗窃。</translation>
     </message>
     <message>
@@ -432,7 +432,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for BritCoin</source>
+        <source>Modify configuration options for Britcoin</source>
         <translation>更改设置选项</translation>
     </message>
     <message>
@@ -472,7 +472,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-202"/>
-        <source>BritCoin</source>
+        <source>Britcoin</source>
         <translation>黑币</translation>
     </message>
     <message>
@@ -539,12 +539,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>BritCoin client</source>
+        <source>Britcoin client</source>
         <translation>黑币客户端</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to BritCoin network</source>
+        <source>%n active connection(s) to Britcoin network</source>
         <translation><numerusform>与黑币网络建立了 %n 个连接</numerusform></translation>
     </message>
     <message>
@@ -729,7 +729,7 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. BritCoin can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. Britcoin can no longer continue safely and will quit.</source>
         <translation>发生严重错误，黑币客户端即将关闭。</translation>
     </message>
 </context>
@@ -1075,8 +1075,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>BritCoin-Qt</source>
-        <translation>黑币客户端BritCoin-Qt</translation>
+        <source>Britcoin-Qt</source>
+        <translation>黑币客户端Britcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1148,12 +1148,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start BritCoin after logging in to the system.</source>
+        <source>Automatically start Britcoin after logging in to the system.</source>
         <translation>开机自动启动黑币客户端</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start BritCoin on system login</source>
+        <source>&amp;Start Britcoin on system login</source>
         <translation>开机时自动启动黑币客户端(&amp;S)</translation>
     </message>
     <message>
@@ -1173,7 +1173,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the BritCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the Britcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation>路由器自动打开黑币客户端端口。该功能仅在路由器开启UPnP支持时有效。</translation>
     </message>
     <message>
@@ -1183,7 +1183,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the BritCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the Britcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation>经SOCKS代理连接到黑币网络(例如使用Tor)</translation>
     </message>
     <message>
@@ -1258,7 +1258,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting BritCoin.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting Britcoin.</source>
         <translation>在此设置用户界面语言。重启黑币客户端后设置生效。</translation>
     </message>
     <message>
@@ -1320,7 +1320,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting BritCoin.</source>
+        <source>This setting will take effect after restarting Britcoin.</source>
         <translation>重启客户端后设置生效</translation>
     </message>
     <message>
@@ -1339,7 +1339,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BritCoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Britcoin network after a connection is established, but this process has not completed yet.</source>
         <translation>所显示的信息尚未更新，建立连接后钱包客户端会自动和网络进行同步，但目前该过程尚未完成。</translation>
     </message>
     <message>
@@ -1555,7 +1555,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the BritCoin-Qt help message to get a list with possible BritCoin command-line options.</source>
+        <source>Show the Britcoin-Qt help message to get a list with possible Britcoin command-line options.</source>
         <translation>显示关于命令行选项的帮助信息。</translation>
     </message>
     <message>
@@ -1575,12 +1575,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>BritCoin - Debug window</source>
+        <source>Britcoin - Debug window</source>
         <translation>黑币客户端-调试窗口</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>BritCoin Core</source>
+        <source>Britcoin Core</source>
         <translation>黑币核心进程</translation>
     </message>
     <message>
@@ -1590,7 +1590,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the BritCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the Britcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>打开调试日志文件，对于较大的文件，这可能持续几秒钟。</translation>
     </message>
     <message>
@@ -1600,7 +1600,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the BritCoin RPC console.</source>
+        <source>Welcome to the Britcoin RPC console.</source>
         <translation>欢迎使用黑币RPC控制台。</translation>
     </message>
     <message>
@@ -2047,7 +2047,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter BritCoin signature</source>
+        <source>Enter Britcoin signature</source>
         <translation>输入黑币签名</translation>
     </message>
     <message>
@@ -2618,7 +2618,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>BritCoin version</source>
+        <source>Britcoin version</source>
         <translation>黑币客户端 版本</translation>
     </message>
     <message>
@@ -2811,7 +2811,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong BritCoin will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Britcoin will not work properly.</source>
         <translation>警告：请确认您计算机的本地时间。如果时钟错误，黑币客户端将不能正常工作。</translation>
     </message>
     <message>
@@ -3007,7 +3007,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;BritCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Britcoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, 必须在配置文件里设置rpc密码:
  %s
@@ -3018,7 +3018,7 @@ rpcpassword=%s
 用户名和密码不能重复。
 如果该文件不存在，请自行创建并设为用户本身只读权限。
 建议创建提示以监测可能的问题，如：
-alertnotify=echo %%s | mail -s &quot;BritCoin Alert&quot; admin@foo.com
+alertnotify=echo %%s | mail -s &quot;Britcoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3147,12 +3147,12 @@ alertnotify=echo %%s | mail -s &quot;BritCoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  BritCoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  Britcoin is probably already running.</source>
         <translation>无法从数据目录 %s 获得锁定.  黑币客户端可能已在运行中.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>BritCoin</source>
+        <source>Britcoin</source>
         <translation>黑币</translation>
     </message>
     <message>
@@ -3187,12 +3187,12 @@ alertnotify=echo %%s | mail -s &quot;BritCoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of BritCoin</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of Britcoin</source>
         <translation>wallet.dat 钱包文件加载出错：需要新版本的客户端</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart BritCoin to complete</source>
+        <source>Wallet needed to be rewritten: restart Britcoin to complete</source>
         <translation>需要重写钱包，重启客户端以完成该操作。</translation>
     </message>
     <message>
@@ -3262,7 +3262,7 @@ alertnotify=echo %%s | mail -s &quot;BritCoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. BritCoin is probably already running.</source>
+        <source>Unable to bind to %s on this computer. Britcoin is probably already running.</source>
         <translation>无法绑定到该计算机上的 %s. 黑币客户端可能已在运行中。</translation>
     </message>
     <message>

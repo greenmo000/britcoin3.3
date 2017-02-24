@@ -76,7 +76,7 @@ map<uint256, set<uint256> > mapOrphanTransactionsByPrev;
 // Constant stuff for coinbase transactions we create:
 CScript COINBASE_FLAGS;
 
-const string strMessageMagic = "BritCoin Signed Message:\n";
+const string strMessageMagic = "Britcoin Signed Message:\n";
 
 // Settings
 int64_t nTransactionFee = MIN_TX_FEE;
@@ -1161,7 +1161,7 @@ static unsigned int GetNextTargetRequired_(const CBlockIndex* pindexLast, bool f
 
     // target change every block
     // retarget with exponential moving toward target spacing
-    // Includes BritCoin fix for wrong retargeting difficulty by Mammix2
+    // Includes Britcoin fix for wrong retargeting difficulty by Mammix2
 
     CBigNum bnNew;
     bnNew.SetCompact(pindexPrev->nBits);
@@ -2573,7 +2573,7 @@ bool CheckDiskSpace(uint64_t nAdditionalBytes)
         string strMessage = _("Warning: Disk space is low!");
         strMiscWarning = strMessage;
         printf("*** %s\n", strMessage.c_str());
-        uiInterface.ThreadSafeMessageBox(strMessage, "BritCoin", CClientUIInterface::OK | CClientUIInterface::ICON_EXCLAMATION | CClientUIInterface::MODAL);
+        uiInterface.ThreadSafeMessageBox(strMessage, "Britcoin", CClientUIInterface::OK | CClientUIInterface::ICON_EXCLAMATION | CClientUIInterface::MODAL);
         StartShutdown();
         return false;
     }
@@ -2665,7 +2665,7 @@ bool LoadBlockIndex(bool fAllowNew)
         if (!fAllowNew)
             return false;
 
-        const char* pszTimestamp = "God save our BritCoin";
+        const char* pszTimestamp = "God save our Britcoin";
         CTransaction txNew;
         txNew.nTime = 1403129943;
         txNew.vin.resize(1);

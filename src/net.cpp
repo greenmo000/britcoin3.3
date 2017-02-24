@@ -380,7 +380,7 @@ bool GetMyExternalIP(CNetAddr& ipRet)
 
             pszGet = "GET / HTTP/1.1\r\n"
                      "Host: checkip.dyndns.org\r\n"
-                     "User-Agent: BritCoin\r\n"
+                     "User-Agent: Britcoin\r\n"
                      "Connection: close\r\n"
                      "\r\n";
 
@@ -399,7 +399,7 @@ bool GetMyExternalIP(CNetAddr& ipRet)
 
             pszGet = "GET /simple/ HTTP/1.1\r\n"
                      "Host: www.showmyip.com\r\n"
-                     "User-Agent: BritCoin\r\n"
+                     "User-Agent: Britcoin\r\n"
                      "Connection: close\r\n"
                      "\r\n";
 

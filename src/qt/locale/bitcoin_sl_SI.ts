@@ -4,18 +4,18 @@
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About Britcoin</source>
-        <translation>O BritCoin</translation>
+        <translation>O Britcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;BritCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;BritCoin&lt;/b&gt; verzija</translation>
+        <source>&lt;b&gt;Britcoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Britcoin&lt;/b&gt; verzija</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The BritCoin developers</source>
+Copyright © 2014 The Britcoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -64,7 +64,7 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     <message>
         <location line="-46"/>
         <source>These are your Britcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>To so vaši BritCoin naslovi za prejemanje plačil. Priporočeno je da vsakemu pošiljatelju namenite drugega in tako dobite večji pregled nad svojimi nakazili.</translation>
+        <translation>To so vaši Britcoin naslovi za prejemanje plačil. Priporočeno je da vsakemu pošiljatelju namenite drugega in tako dobite večji pregled nad svojimi nakazili.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -79,7 +79,7 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     <message>
         <location line="+11"/>
         <source>Sign a message to prove you own a Britcoin address</source>
-        <translation>Podpišite sporočilo, kot dokazilo lastništva BritCoin naslova</translation>
+        <translation>Podpišite sporočilo, kot dokazilo lastništva Britcoin naslova</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -94,7 +94,7 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     <message>
         <location line="-14"/>
         <source>Verify a message to ensure it was signed with a specified Britcoin address</source>
-        <translation>Potrdi sporočilo, da zagotovite, da je bilo podpisano z izbranim BritCoin naslovom</translation>
+        <translation>Potrdi sporočilo, da zagotovite, da je bilo podpisano z izbranim Britcoin naslovom</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -261,8 +261,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-58"/>
-        <source>BritCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>BritCoin se bo sedaj zaprl, da dokonča proces šifriranje. Pomnite, da tudi šifriranje vaše denarnice ne more v celoti zaščititi vaših kovancev pred krajo z zlonamernimi programi in računalniškimi virusi, če ti okužijo vaš računalnik.</translation>
+        <source>Britcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Britcoin se bo sedaj zaprl, da dokonča proces šifriranje. Pomnite, da tudi šifriranje vaše denarnice ne more v celoti zaščititi vaših kovancev pred krajo z zlonamernimi programi in računalniškimi virusi, če ti okužijo vaš računalnik.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -376,7 +376,7 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     <message>
         <location line="+6"/>
         <source>Show information about Britcoin</source>
-        <translation>Pokaži informacije o BritCoin</translation>
+        <translation>Pokaži informacije o Britcoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -426,11 +426,11 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     <message>
         <location line="-64"/>
         <source>Send coins to a Britcoin address</source>
-        <translation>Pošlji kovance na BritCoin naslov</translation>
+        <translation>Pošlji kovance na Britcoin naslov</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for BritCoin</source>
+        <source>Modify configuration options for Britcoin</source>
         <translation>Spremeni nastavitve za Britcoin</translation>
     </message>
     <message>
@@ -470,8 +470,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-202"/>
-        <source>BritCoin</source>
-        <translation>BritCoin</translation>
+        <source>Britcoin</source>
+        <translation>Britcoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -481,7 +481,7 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     <message>
         <location line="+180"/>
         <source>&amp;About Britcoin</source>
-        <translation>&amp;O BritCoin</translation>
+        <translation>&amp;O Britcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -537,13 +537,13 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>BritCoin client</source>
-        <translation>BritCoin program</translation>
+        <source>Britcoin client</source>
+        <translation>Britcoin program</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to BritCoin network</source>
-        <translation><numerusform>%n aktivne povezave na BritCoin omrežje</numerusform><numerusform>%n aktivnih povezav na BritCoin omrežje</numerusform><numerusform>%n aktivnih povezav na BritCoin omrežje</numerusform><numerusform>%n aktivnih povezav na BritCoin omrežje</numerusform></translation>
+        <source>%n active connection(s) to Britcoin network</source>
+        <translation><numerusform>%n aktivne povezave na Britcoin omrežje</numerusform><numerusform>%n aktivnih povezav na Britcoin omrežje</numerusform><numerusform>%n aktivnih povezav na Britcoin omrežje</numerusform><numerusform>%n aktivnih povezav na Britcoin omrežje</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -668,7 +668,7 @@ Naslov: %4
         <location line="-15"/>
         <location line="+15"/>
         <source>URI can not be parsed! This can be caused by an invalid Britcoin address or malformed URI parameters.</source>
-        <translation>URI ne more biti razčlenjen! To se lahko zgodi zaradi neveljavnega BritCoin naslova ali slabih parametrov URI.</translation>
+        <translation>URI ne more biti razčlenjen! To se lahko zgodi zaradi neveljavnega Britcoin naslova ali slabih parametrov URI.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -727,8 +727,8 @@ Naslov: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. BritCoin can no longer continue safely and will quit.</source>
-        <translation>Prišlo je do usodne napake. Program BritCoin se ne more več varno nadaljevati in se bo zato zaprl. </translation>
+        <source>A fatal error occurred. Britcoin can no longer continue safely and will quit.</source>
+        <translation>Prišlo je do usodne napake. Program Britcoin se ne more več varno nadaljevati in se bo zato zaprl. </translation>
     </message>
 </context>
 <context>
@@ -1062,7 +1062,7 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location line="-5"/>
         <source>The entered address &quot;%1&quot; is not a valid Britcoin address.</source>
-        <translation>Vneseni naslov &quot;%1&quot; ni veljaven BritCoin naslov.</translation>
+        <translation>Vneseni naslov &quot;%1&quot; ni veljaven Britcoin naslov.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1080,8 +1080,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>BritCoin-Qt</source>
-        <translation>BritCoin-Qt</translation>
+        <source>Britcoin-Qt</source>
+        <translation>Britcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1153,13 +1153,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start BritCoin after logging in to the system.</source>
-        <translation>Avtomatično zaženi BritCoin ob zagonu sistema.</translation>
+        <source>Automatically start Britcoin after logging in to the system.</source>
+        <translation>Avtomatično zaženi Britcoin ob zagonu sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start BritCoin on system login</source>
-        <translation>&amp;Zaženi BritCoin ob prijavi v sistem</translation>
+        <source>&amp;Start Britcoin on system login</source>
+        <translation>&amp;Zaženi Britcoin ob prijavi v sistem</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1178,8 +1178,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the BritCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Avtomatično odpri vrata na routerju za BritCoin program. To deluje le če vaš router podpira UPnP in je ta omogočen. </translation>
+        <source>Automatically open the Britcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Avtomatično odpri vrata na routerju za Britcoin program. To deluje le če vaš router podpira UPnP in je ta omogočen. </translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1188,8 +1188,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the BritCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Poveži se na BritCoin omrežje skozi SOCKS proxy (npr. ko se povezujete prek Tora)</translation>
+        <source>Connect to the Britcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Poveži se na Britcoin omrežje skozi SOCKS proxy (npr. ko se povezujete prek Tora)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1263,8 +1263,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting BritCoin.</source>
-        <translation>Tu lahko nastavite jezik uporabniškega vmesnika. Nastavitve bodo pričele delovati ob ponovnem zagonu BritCoin aplikacije. </translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Britcoin.</source>
+        <translation>Tu lahko nastavite jezik uporabniškega vmesnika. Nastavitve bodo pričele delovati ob ponovnem zagonu Britcoin aplikacije. </translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1279,7 +1279,7 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location line="+9"/>
         <source>Whether to show Britcoin addresses in the transaction list or not.</source>
-        <translation>Izbira prikaza BritCoin naslovov v seznamu transakcij.</translation>
+        <translation>Izbira prikaza Britcoin naslovov v seznamu transakcij.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1325,8 +1325,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting BritCoin.</source>
-        <translation>Ta nastavitev bo pričela delovati ob ponovnem zagonu BritCoin aplikacije</translation>
+        <source>This setting will take effect after restarting Britcoin.</source>
+        <translation>Ta nastavitev bo pričela delovati ob ponovnem zagonu Britcoin aplikacije</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1344,8 +1344,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BritCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Prikazane informacije so morda zastarele. Vaša denarnica se avtomatično sinhronizira z BritCoin omrežjem, ko je vzpostavljena povezava, toda ta proces še ni bil zaključen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Britcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Prikazane informacije so morda zastarele. Vaša denarnica se avtomatično sinhronizira z Britcoin omrežjem, ko je vzpostavljena povezava, toda ta proces še ni bil zaključen.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1560,8 +1560,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the BritCoin-Qt help message to get a list with possible BritCoin command-line options.</source>
-        <translation>Prikaži BritCoin-Qt sporočilo za pomoč , ki prikaže vse možnosti ukazne vrstice BritCoin aplikacije</translation>
+        <source>Show the Britcoin-Qt help message to get a list with possible Britcoin command-line options.</source>
+        <translation>Prikaži Britcoin-Qt sporočilo za pomoč , ki prikaže vse možnosti ukazne vrstice Britcoin aplikacije</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1580,13 +1580,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>BritCoin - Debug window</source>
-        <translation>BritCoin - okno za odpravljanje napak</translation>
+        <source>Britcoin - Debug window</source>
+        <translation>Britcoin - okno za odpravljanje napak</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>BritCoin Core</source>
-        <translation>BritCoin jedro</translation>
+        <source>Britcoin Core</source>
+        <translation>Britcoin jedro</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1595,8 +1595,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the BritCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Odpri BritCoin datoteko zapisov odpravljanja napak iz trenutnega direktorija podatkov. Če so datoteke zapisov velike, to lahko traja nekaj sekund.</translation>
+        <source>Open the Britcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Odpri Britcoin datoteko zapisov odpravljanja napak iz trenutnega direktorija podatkov. Če so datoteke zapisov velike, to lahko traja nekaj sekund.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1605,8 +1605,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the BritCoin RPC console.</source>
-        <translation>Dobrodošli v BritCoin RPC konzoli.</translation>
+        <source>Welcome to the Britcoin RPC console.</source>
+        <translation>Dobrodošli v Britcoin RPC konzoli.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1765,7 +1765,7 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
         <source>Enter a Britcoin address (e.g. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</source>
-        <translation>Vnesite BritCoin naslov (e.g. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</translation>
+        <translation>Vnesite Britcoin naslov (e.g. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1865,7 +1865,7 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location line="+251"/>
         <source>WARNING: Invalid Britcoin address</source>
-        <translation>OPOZORILO: Neveljaven BritCoin naslov</translation>
+        <translation>OPOZORILO: Neveljaven Britcoin naslov</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1939,7 +1939,7 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
         <source>Enter a Britcoin address (e.g. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</source>
-        <translation>Vnesite BritCoin naslov (npr. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</translation>
+        <translation>Vnesite Britcoin naslov (npr. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</translation>
     </message>
 </context>
 <context>
@@ -2000,7 +2000,7 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location line="+21"/>
         <source>Sign the message to prove you own this Britcoin address</source>
-        <translation>Podpišite sporočilo, kot dokazilo lastništva BritCoin naslova</translation>
+        <translation>Podpišite sporočilo, kot dokazilo lastništva Britcoin naslova</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2032,7 +2032,7 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location line="+40"/>
         <source>Verify the message to ensure it was signed with the specified Britcoin address</source>
-        <translation>Potrdite sporočilo, da zagotovite, da je bilo podpisano z izbranim BritCoin naslovom</translation>
+        <translation>Potrdite sporočilo, da zagotovite, da je bilo podpisano z izbranim Britcoin naslovom</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2043,7 +2043,7 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
         <source>Enter a Britcoin address (e.g. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</source>
-        <translation>Vnesite BritCoin naslov (npr. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</translation>
+        <translation>Vnesite Britcoin naslov (npr. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2052,8 +2052,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter BritCoin signature</source>
-        <translation>Vnesite BritCoin podpis</translation>
+        <source>Enter Britcoin signature</source>
+        <translation>Vnesite Britcoin podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2623,8 +2623,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>BritCoin version</source>
-        <translation>BritCoin različica</translation>
+        <source>Britcoin version</source>
+        <translation>Britcoin različica</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2808,8 +2808,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong BritCoin will not work properly.</source>
-        <translation>Opozorilo: Prosimo preverite svoj datum in čas svojega računalnika! Če je vaša ura nastavljena napačno BritCoin ne bo deloval.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Britcoin will not work properly.</source>
+        <translation>Opozorilo: Prosimo preverite svoj datum in čas svojega računalnika! Če je vaša ura nastavljena napačno Britcoin ne bo deloval.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -3004,7 +3004,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;BritCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Britcoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, nastaviti morate rpcgeslo v konfiguracijski datoteki: 
  %s
@@ -3015,7 +3015,7 @@ rpcpassword=%s
 Uporabniško ime in geslo NE SMETA biti ista. 
 Če datoteka ne obstaja, jo ustvarite z lastniškimi dovoljenji za datoteke. 
 Prav tako je priporočeno, da nastavite alernotify, tkako da vas opozori na probleme;
-na primer: alertnotify=echo %%s | mail -s &quot;BritCoin Alarm&quot; admin@foo.com
+na primer: alertnotify=echo %%s | mail -s &quot;Britcoin Alarm&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3140,13 +3140,13 @@ na primer: alertnotify=echo %%s | mail -s &quot;BritCoin Alarm&quot; admin@foo.c
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  BritCoin is probably already running.</source>
-        <translation>Ni bilo mogoče najti podatkovnega imenika %s. Aplikacija BritCoin je verjetno že zagnana.</translation>
+        <source>Cannot obtain a lock on data directory %s.  Britcoin is probably already running.</source>
+        <translation>Ni bilo mogoče najti podatkovnega imenika %s. Aplikacija Britcoin je verjetno že zagnana.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>BritCoin</source>
-        <translation>BritCoin</translation>
+        <source>Britcoin</source>
+        <translation>Britcoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3180,13 +3180,13 @@ na primer: alertnotify=echo %%s | mail -s &quot;BritCoin Alarm&quot; admin@foo.c
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of BritCoin</source>
-        <translation>Napaka pri nalaganju wallet.dat: denarnica zahteva novejšo verzijo BritCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Britcoin</source>
+        <translation>Napaka pri nalaganju wallet.dat: denarnica zahteva novejšo verzijo Britcoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart BritCoin to complete</source>
-        <translation>Denarnica mora biti prepisana: ponovno odprite BritCoin za dokončanje</translation>
+        <source>Wallet needed to be rewritten: restart Britcoin to complete</source>
+        <translation>Denarnica mora biti prepisana: ponovno odprite Britcoin za dokončanje</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3255,8 +3255,8 @@ na primer: alertnotify=echo %%s | mail -s &quot;BritCoin Alarm&quot; admin@foo.c
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. BritCoin is probably already running.</source>
-        <translation>Navezava v %s  na tem računalniku ni mogoča BritCoin aplikacija je verjetno že zagnana.</translation>
+        <source>Unable to bind to %s on this computer. Britcoin is probably already running.</source>
+        <translation>Navezava v %s  na tem računalniku ni mogoča Britcoin aplikacija je verjetno že zagnana.</translation>
     </message>
     <message>
         <location line="-97"/>

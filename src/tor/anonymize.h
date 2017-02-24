@@ -1,4 +1,4 @@
-/* Copyright (c) 2014, BritCoin Developers */
+/* Copyright (c) 2014, Britcoin Developers */
 /* See LICENSE for licensing information */
 
 /**
