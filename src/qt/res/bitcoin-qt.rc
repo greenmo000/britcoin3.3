@@ -18,14 +18,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "Britcoin"
-            VALUE "FileDescription",    "Britcoin-Qt (OSS GUI client for Britcoin)"
+            VALUE "CompanyName",        "BritCoin"
+            VALUE "FileDescription",    "BritCoin-Qt (OSS GUI client for BritCoin)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
             VALUE "InternalName",       "britcoin-qt"
-            VALUE "LegalCopyright",     "2014 The Britcoin developers"
+            VALUE "LegalCopyright",     "2014 The BritCoin developers"
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
             VALUE "OriginalFilename",   "britcoin-qt.exe"
-            VALUE "ProductName",        "Britcoin-Qt"
+            VALUE "ProductName",        "BritCoin-Qt"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

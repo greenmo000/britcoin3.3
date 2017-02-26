@@ -8,14 +8,14 @@
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Britcoin&lt;/b&gt; version</source>
+        <source>&lt;b&gt;BritCoin&lt;/b&gt; version</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Britcoin developers</source>
+Copyright © 2014 The BritCoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -260,7 +260,7 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="-58"/>
-        <source>Britcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <source>BritCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -429,7 +429,7 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for Britcoin</source>
+        <source>Modify configuration options for BritCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -469,7 +469,7 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="-202"/>
-        <source>Britcoin</source>
+        <source>BritCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -536,12 +536,12 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Britcoin client</source>
+        <source>BritCoin client</source>
         <translation type="unfinished"/>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to Britcoin network</source>
+        <source>%n active connection(s) to BritCoin network</source>
         <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
@@ -725,7 +725,7 @@ Adresas: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Britcoin can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. BritCoin can no longer continue safely and will quit.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1064,7 +1064,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Britcoin-Qt</source>
+        <source>BritCoin-Qt</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1137,12 +1137,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Britcoin after logging in to the system.</source>
+        <source>Automatically start BritCoin after logging in to the system.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Britcoin on system login</source>
+        <source>&amp;Start BritCoin on system login</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1162,7 +1162,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Britcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the BritCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1172,7 +1172,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Britcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the BritCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1247,7 +1247,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Britcoin.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting BritCoin.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1309,7 +1309,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Britcoin.</source>
+        <source>This setting will take effect after restarting BritCoin.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1328,7 +1328,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Britcoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BritCoin network after a connection is established, but this process has not completed yet.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1544,7 +1544,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Britcoin-Qt help message to get a list with possible Britcoin command-line options.</source>
+        <source>Show the BritCoin-Qt help message to get a list with possible BritCoin command-line options.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1564,12 +1564,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>Britcoin - Debug window</source>
+        <source>BritCoin - Debug window</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+25"/>
-        <source>Britcoin Core</source>
+        <source>BritCoin Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1579,7 +1579,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Britcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the BritCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1589,7 +1589,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Britcoin RPC console.</source>
+        <source>Welcome to the BritCoin RPC console.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2036,7 +2036,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Britcoin signature</source>
+        <source>Enter BritCoin signature</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2607,7 +2607,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Britcoin version</source>
+        <source>BritCoin version</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2792,7 +2792,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Britcoin will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong BritCoin will not work properly.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2987,7 +2987,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Britcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;BritCoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -3113,12 +3113,12 @@ for example: alertnotify=echo %%s | mail -s &quot;Britcoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Britcoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  BritCoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="-98"/>
-        <source>Britcoin</source>
+        <source>BritCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3153,12 +3153,12 @@ for example: alertnotify=echo %%s | mail -s &quot;Britcoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Britcoin</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of BritCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Britcoin to complete</source>
+        <source>Wallet needed to be rewritten: restart BritCoin to complete</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3228,7 +3228,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Britcoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Britcoin is probably already running.</source>
+        <source>Unable to bind to %s on this computer. BritCoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

@@ -16,7 +16,7 @@ To Build
 cd src/
 make -f makefile.unix            # Headless britcoin
 
-See readme-qt.rst for instructions on building Britcoin QT,
+See readme-qt.rst for instructions on building BritCoin QT,
 the graphical britcoin.
 
 Dependencies
@@ -73,7 +73,7 @@ If using Boost 1.37, append -mt to the boost libraries in the makefile.
 Dependency Build Instructions: Gentoo
 -------------------------------------
 
-Note: If you just want to install britcoind on Gentoo, you can add the Britcoin
+Note: If you just want to install britcoind on Gentoo, you can add the BritCoin
       overlay and use your package manager:
           layman -a britcoin && emerge britcoind
 

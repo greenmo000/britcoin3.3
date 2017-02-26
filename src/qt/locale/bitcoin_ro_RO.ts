@@ -4,21 +4,21 @@
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About Britcoin</source>
-        <translation>Despre Britcoin</translation>
+        <translation>Despre BritCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Britcoin&lt;/b&gt; version</source>
-        <translation>Versiune &lt;b&gt;Britcoin&lt;/b&gt;</translation>
+        <source>&lt;b&gt;BritCoin&lt;/b&gt; version</source>
+        <translation>Versiune &lt;b&gt;BritCoin&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Britcoin developers</source>
+Copyright © 2014 The BritCoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Britcoin developers</translation>
+Copyright © 2014 The BritCoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -66,7 +66,7 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     <message>
         <location line="-46"/>
         <source>These are your Britcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Acestea sunt adresele Britcoin pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
+        <translation>Acestea sunt adresele BritCoin pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -81,7 +81,7 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     <message>
         <location line="+11"/>
         <source>Sign a message to prove you own a Britcoin address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă Britcoin</translation>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă BritCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -96,7 +96,7 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     <message>
         <location line="-14"/>
         <source>Verify a message to ensure it was signed with a specified Britcoin address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă Britcoin</translation>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă BritCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-58"/>
-        <source>Britcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Britcoin se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
+        <source>BritCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>BritCoin se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -378,7 +378,7 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     <message>
         <location line="+6"/>
         <source>Show information about Britcoin</source>
-        <translation>Arată informații despre Britcoin</translation>
+        <translation>Arată informații despre BritCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -428,12 +428,12 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     <message>
         <location line="-64"/>
         <source>Send coins to a Britcoin address</source>
-        <translation>Trimite monede către o adresă Britcoin</translation>
+        <translation>Trimite monede către o adresă BritCoin</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for Britcoin</source>
-        <translation>Modifică opțiuni de configurare pentru Britcoin</translation>
+        <source>Modify configuration options for BritCoin</source>
+        <translation>Modifică opțiuni de configurare pentru BritCoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-202"/>
-        <source>Britcoin</source>
-        <translation>Britcoin</translation>
+        <source>BritCoin</source>
+        <translation>BritCoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -483,7 +483,7 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     <message>
         <location line="+180"/>
         <source>&amp;About Britcoin</source>
-        <translation>Despre Britcoin</translation>
+        <translation>Despre BritCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Britcoin client</source>
-        <translation>Clientul Britcoin</translation>
+        <source>BritCoin client</source>
+        <translation>Clientul BritCoin</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to Britcoin network</source>
-        <translation><numerusform>%n conexiune activă la reteaua Britcoin</numerusform><numerusform>%n conexiuni active la reteaua Britcoin</numerusform><numerusform>%n conexiuni active la reteaua Britcoin</numerusform></translation>
+        <source>%n active connection(s) to BritCoin network</source>
+        <translation><numerusform>%n conexiune activă la reteaua BritCoin</numerusform><numerusform>%n conexiuni active la reteaua BritCoin</numerusform><numerusform>%n conexiuni active la reteaua BritCoin</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -585,12 +585,12 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     <message>
         <location line="-312"/>
         <source>About Britcoin card</source>
-        <translation>Despre cardul Britcoin</translation>
+        <translation>Despre cardul BritCoin</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show information about Britcoin card</source>
-        <translation>Arată informații despre card Britcoin</translation>
+        <translation>Arată informații despre card BritCoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -670,7 +670,7 @@ Adresa: %4
         <location line="-15"/>
         <location line="+15"/>
         <source>URI can not be parsed! This can be caused by an invalid Britcoin address or malformed URI parameters.</source>
-        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa Britcoin invalidă sau parametrii URI malformați.</translation>
+        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa BritCoin invalidă sau parametrii URI malformați.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -729,8 +729,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Britcoin can no longer continue safely and will quit.</source>
-        <translation>A apărut o eroare fatală. Britcoin nu mai poate continua în condiții de siguranță și va iesi.</translation>
+        <source>A fatal error occurred. BritCoin can no longer continue safely and will quit.</source>
+        <translation>A apărut o eroare fatală. BritCoin nu mai poate continua în condiții de siguranță și va iesi.</translation>
     </message>
 </context>
 <context>
@@ -1064,7 +1064,7 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="-5"/>
         <source>The entered address &quot;%1&quot; is not a valid Britcoin address.</source>
-        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă Britcoin validă</translation>
+        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă BritCoin validă</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1082,8 +1082,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Britcoin-Qt</source>
-        <translation>Britcoin-Qt</translation>
+        <source>BritCoin-Qt</source>
+        <translation>BritCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1155,13 +1155,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Britcoin after logging in to the system.</source>
-        <translation>Pornește Britcoin imdiat după logarea în sistem</translation>
+        <source>Automatically start BritCoin after logging in to the system.</source>
+        <translation>Pornește BritCoin imdiat după logarea în sistem</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Britcoin on system login</source>
-        <translation>$Pornește Britcoin la logarea în sistem</translation>
+        <source>&amp;Start BritCoin on system login</source>
+        <translation>$Pornește BritCoin la logarea în sistem</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1180,8 +1180,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Britcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Deschide automat portul pentru cientul Britcoin pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
+        <source>Automatically open the BritCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Deschide automat portul pentru cientul BritCoin pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1190,8 +1190,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Britcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Conecteaza la reteaua Britcoin prinr-un proxy SOCKS(ex. cand te conectezi prin Tor)</translation>
+        <source>Connect to the BritCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Conecteaza la reteaua BritCoin prinr-un proxy SOCKS(ex. cand te conectezi prin Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1265,8 +1265,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Britcoin.</source>
-        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea Britcoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting BritCoin.</source>
+        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea BritCoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1281,7 +1281,7 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="+9"/>
         <source>Whether to show Britcoin addresses in the transaction list or not.</source>
-        <translation>Dacă să arate adrese Britcoin din lista de tranzacție sau nu.</translation>
+        <translation>Dacă să arate adrese BritCoin din lista de tranzacție sau nu.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1327,8 +1327,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Britcoin.</source>
-        <translation>Aceasta setare va avea efect dupa repornirea Britcoin.</translation>
+        <source>This setting will take effect after restarting BritCoin.</source>
+        <translation>Aceasta setare va avea efect dupa repornirea BritCoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1346,8 +1346,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Britcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua Britcoin după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BritCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua BritCoin după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1562,8 +1562,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Britcoin-Qt help message to get a list with possible Britcoin command-line options.</source>
-        <translation>Afișa mesajul de ajutor Britcoin-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă Britcoin.</translation>
+        <source>Show the BritCoin-Qt help message to get a list with possible BritCoin command-line options.</source>
+        <translation>Afișa mesajul de ajutor BritCoin-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă BritCoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1582,13 +1582,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Britcoin - Debug window</source>
-        <translation>Britcoin - fereastră depanare</translation>
+        <source>BritCoin - Debug window</source>
+        <translation>BritCoin - fereastră depanare</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Britcoin Core</source>
-        <translation>Britcoin Core</translation>
+        <source>BritCoin Core</source>
+        <translation>BritCoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1597,8 +1597,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Britcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Deschideti fisierul de depanare Britcoin din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
+        <source>Open the BritCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Deschideti fisierul de depanare BritCoin din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1607,8 +1607,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Britcoin RPC console.</source>
-        <translation>Bine ati venit la consola Britcoin RPC.</translation>
+        <source>Welcome to the BritCoin RPC console.</source>
+        <translation>Bine ati venit la consola BritCoin RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1767,7 +1767,7 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
         <source>Enter a Britcoin address (e.g. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</source>
-        <translation>Introduceți o adresă Britcoin(ex:BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</translation>
+        <translation>Introduceți o adresă BritCoin(ex:BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1867,7 +1867,7 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="+251"/>
         <source>WARNING: Invalid Britcoin address</source>
-        <translation>Atenție: Adresă Britcoin invalidă</translation>
+        <translation>Atenție: Adresă BritCoin invalidă</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1941,7 +1941,7 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
         <source>Enter a Britcoin address (e.g. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</source>
-        <translation>Introduceți o adresă Britcoin(ex:BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</translation>
+        <translation>Introduceți o adresă BritCoin(ex:BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</translation>
     </message>
 </context>
 <context>
@@ -2002,7 +2002,7 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="+21"/>
         <source>Sign the message to prove you own this Britcoin address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă Britcoin</translation>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă BritCoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2034,7 +2034,7 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="+40"/>
         <source>Verify the message to ensure it was signed with the specified Britcoin address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă Britcoin</translation>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă BritCoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2045,7 +2045,7 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
         <source>Enter a Britcoin address (e.g. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</source>
-        <translation>Introduceți o adresă Britcoin(ex:BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</translation>
+        <translation>Introduceți o adresă BritCoin(ex:BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2054,8 +2054,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Britcoin signature</source>
-        <translation>Introduceti semnatura Britcoin</translation>
+        <source>Enter BritCoin signature</source>
+        <translation>Introduceti semnatura BritCoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2625,8 +2625,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Britcoin version</source>
-        <translation>Versiune Britcoin</translation>
+        <source>BritCoin version</source>
+        <translation>Versiune BritCoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2810,8 +2810,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Britcoin will not work properly.</source>
-        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit Britcoin nu va functiona corect.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong BritCoin will not work properly.</source>
+        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit BritCoin nu va functiona corect.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -3006,7 +3006,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Britcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;BritCoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, trebuie să configurați o parolă rpc în fișierul de configurare: %s
 Este recomandat să folosiți următoarea parolă generată aleator: rpcuser=britcoinrpc
@@ -3015,7 +3015,7 @@ rpcpassword=%s
 Username-ul și parola NU TREBUIE să fie aceleași.
 Dacă fișierul nu există, creați-l cu drepturi de citire doar de către deținător.
 Este deasemenea recomandat să setați alertnotify pentru a fi notificat de probleme;
-de exemplu: alertnotify=echo %%s | mail -s &quot;Britcoin Alert&quot; admin@foo.com
+de exemplu: alertnotify=echo %%s | mail -s &quot;BritCoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3140,13 +3140,13 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;Britcoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Britcoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  BritCoin is probably already running.</source>
         <translation>Nu se poate obtine un lock pe directorul de date &amp;s. Blackoin probabil ruleaza deja.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>Britcoin</source>
-        <translation>Britcoin</translation>
+        <source>BritCoin</source>
+        <translation>BritCoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3180,13 +3180,13 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;Britcoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Britcoin</source>
-        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de Britcoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of BritCoin</source>
+        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de BritCoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Britcoin to complete</source>
-        <translation>A fost nevoie de rescrierea portofelului: restartați Britcoin pentru a finaliza</translation>
+        <source>Wallet needed to be rewritten: restart BritCoin to complete</source>
+        <translation>A fost nevoie de rescrierea portofelului: restartați BritCoin pentru a finaliza</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3255,8 +3255,8 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;Britcoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Britcoin is probably already running.</source>
-        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil Britcoin ruleaza</translation>
+        <source>Unable to bind to %s on this computer. BritCoin is probably already running.</source>
+        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil BritCoin ruleaza</translation>
     </message>
     <message>
         <location line="-97"/>

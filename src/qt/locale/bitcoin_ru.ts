@@ -4,21 +4,21 @@
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About Britcoin</source>
-        <translation>О Britcoin</translation>
+        <translation>О BritCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Britcoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Britcoin&lt;/b&gt; версия</translation>
+        <source>&lt;b&gt;BritCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;BritCoin&lt;/b&gt; версия</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Britcoin developers</source>
+Copyright © 2014 The BritCoin developers</source>
         <translation>Все права защищены © 2009-2014 Разработчики Bitcoin
 Все права защищены © 2012-2014 Разработчики NovaCoin
-Все права защищены © 2014 Разработчики Britcoin</translation>
+Все права защищены © 2014 Разработчики BritCoin</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -81,7 +81,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+11"/>
         <source>Sign a message to prove you own a Britcoin address</source>
-        <translation>Подписать сообщение, чтобы доказать владение адресом Britcoin</translation>
+        <translation>Подписать сообщение, чтобы доказать владение адресом BritCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -96,7 +96,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-14"/>
         <source>Verify a message to ensure it was signed with a specified Britcoin address</source>
-        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом Britcoin</translation>
+        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом BritCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,7 +263,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>Britcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <source>BritCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
         <translation>Сейчас программа закроется для завершения процесса шифрования. Помните, что шифрование вашего бумажника не может полностью защитить ваши монеты от кражи с помощью инфицирования вашего компьютера вредоносным ПО.</translation>
     </message>
     <message>
@@ -378,7 +378,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+6"/>
         <source>Show information about Britcoin</source>
-        <translation>Показать информацию о Britcoin&apos;е</translation>
+        <translation>Показать информацию о BritCoin&apos;е</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -428,12 +428,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-64"/>
         <source>Send coins to a Britcoin address</source>
-        <translation>Отправить монеты на указанный адрес Britcoin</translation>
+        <translation>Отправить монеты на указанный адрес BritCoin</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for Britcoin</source>
-        <translation>Изменить параметры конфигурации Britcoin</translation>
+        <source>Modify configuration options for BritCoin</source>
+        <translation>Изменить параметры конфигурации BritCoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-202"/>
-        <source>Britcoin</source>
-        <translation>Britcoin</translation>
+        <source>BritCoin</source>
+        <translation>BritCoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -483,7 +483,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+180"/>
         <source>&amp;About Britcoin</source>
-        <translation>&amp;О Britcoin</translation>
+        <translation>&amp;О BritCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,12 +539,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Britcoin client</source>
-        <translation>Britcoin клиент</translation>
+        <source>BritCoin client</source>
+        <translation>BritCoin клиент</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to Britcoin network</source>
+        <source>%n active connection(s) to BritCoin network</source>
         <translation><numerusform>%n активное соединение с сетью</numerusform><numerusform>%n активных соединений с сетью</numerusform><numerusform>%n активных соединений с сетью</numerusform></translation>
     </message>
     <message>
@@ -585,7 +585,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-312"/>
         <source>About Britcoin card</source>
-        <translation>О карте Britcoin</translation>
+        <translation>О карте BritCoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -670,7 +670,7 @@ Address: %4
         <location line="-15"/>
         <location line="+15"/>
         <source>URI can not be parsed! This can be caused by an invalid Britcoin address or malformed URI parameters.</source>
-        <translation>Не удалось обработать URI! Это может быть связано с неверным адресом Britcoin или неправильными параметрами URI.</translation>
+        <translation>Не удалось обработать URI! Это может быть связано с неверным адресом BritCoin или неправильными параметрами URI.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -729,8 +729,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Britcoin can no longer continue safely and will quit.</source>
-        <translation>Произошла неисправимая ошибка. Britcoin не может безопасно продолжать работу и будет закрыт.</translation>
+        <source>A fatal error occurred. BritCoin can no longer continue safely and will quit.</source>
+        <translation>Произошла неисправимая ошибка. BritCoin не может безопасно продолжать работу и будет закрыт.</translation>
     </message>
 </context>
 <context>
@@ -1050,7 +1050,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-5"/>
         <source>The entered address &quot;%1&quot; is not a valid Britcoin address.</source>
-        <translation>Введённый адрес &quot;%1&quot; не является правильным Britcoin-адресом.</translation>
+        <translation>Введённый адрес &quot;%1&quot; не является правильным BritCoin-адресом.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1068,8 +1068,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Britcoin-Qt</source>
-        <translation>Britcoin-Qt</translation>
+        <source>BritCoin-Qt</source>
+        <translation>BritCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1141,13 +1141,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Britcoin after logging in to the system.</source>
-        <translation>Автоматически запускать Britcoin после входа в систему</translation>
+        <source>Automatically start BritCoin after logging in to the system.</source>
+        <translation>Автоматически запускать BritCoin после входа в систему</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Britcoin on system login</source>
-        <translation>&amp;Запускать Britcoin при входе в систему</translation>
+        <source>&amp;Start BritCoin on system login</source>
+        <translation>&amp;Запускать BritCoin при входе в систему</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1166,8 +1166,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Britcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Автоматически открыть порт для Britcoin-клиента на роутере. Работает только если Ваш роутер поддерживает UPnP, и данная функция включена.</translation>
+        <source>Automatically open the BritCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Автоматически открыть порт для BritCoin-клиента на роутере. Работает только если Ваш роутер поддерживает UPnP, и данная функция включена.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1176,8 +1176,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Britcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Подключаться к сети Britcoin через прокси SOCKS (например, при подключении через Tor).</translation>
+        <source>Connect to the BritCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Подключаться к сети BritCoin через прокси SOCKS (например, при подключении через Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1251,8 +1251,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Britcoin.</source>
-        <translation>Здесь можно выбрать язык интерфейса. Настройки вступят в силу после перезапуска Britcoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting BritCoin.</source>
+        <translation>Здесь можно выбрать язык интерфейса. Настройки вступят в силу после перезапуска BritCoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1267,7 +1267,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+9"/>
         <source>Whether to show Britcoin addresses in the transaction list or not.</source>
-        <translation>Показывать ли адреса Britcoin в списке транзакций.</translation>
+        <translation>Показывать ли адреса BritCoin в списке транзакций.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1313,8 +1313,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Britcoin.</source>
-        <translation>Эта настройка вступит в силу после перезапуска Britcoin</translation>
+        <source>This setting will take effect after restarting BritCoin.</source>
+        <translation>Эта настройка вступит в силу после перезапуска BritCoin</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1332,8 +1332,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Britcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Отображаемая информация может быть устаревшей. Ваш бумажник автоматически синхронизируется с сетью Britcoin после подключения, но этот процесс пока не завершён.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BritCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Отображаемая информация может быть устаревшей. Ваш бумажник автоматически синхронизируется с сетью BritCoin после подключения, но этот процесс пока не завершён.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1548,8 +1548,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Britcoin-Qt help message to get a list with possible Britcoin command-line options.</source>
-        <translation>Показать помощь по Britcoin-Qt, чтобы получить список доступных параметров командной строки.</translation>
+        <source>Show the BritCoin-Qt help message to get a list with possible BritCoin command-line options.</source>
+        <translation>Показать помощь по BritCoin-Qt, чтобы получить список доступных параметров командной строки.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1568,13 +1568,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>Britcoin - Debug window</source>
-        <translation>Britcoin - Окно отладки</translation>
+        <source>BritCoin - Debug window</source>
+        <translation>BritCoin - Окно отладки</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Britcoin Core</source>
-        <translation>Ядро Britcoin</translation>
+        <source>BritCoin Core</source>
+        <translation>Ядро BritCoin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1583,8 +1583,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Britcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Открыть отладочный лог-файл Britcoin из текущего каталога данных. Это может занять несколько секунд для больших лог-файлов.</translation>
+        <source>Open the BritCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Открыть отладочный лог-файл BritCoin из текущего каталога данных. Это может занять несколько секунд для больших лог-файлов.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1593,8 +1593,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Britcoin RPC console.</source>
-        <translation>Добро пожаловать в RPC-консоль Britcoin.</translation>
+        <source>Welcome to the BritCoin RPC console.</source>
+        <translation>Добро пожаловать в RPC-консоль BritCoin.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1753,7 +1753,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
         <source>Enter a Britcoin address (e.g. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</source>
-        <translation>Введите Britcoin-адрес (например BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</translation>
+        <translation>Введите BritCoin-адрес (например BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1927,7 +1927,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
         <source>Enter a Britcoin address (e.g. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</source>
-        <translation>Введите Britcoin-адрес (например BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</translation>
+        <translation>Введите BritCoin-адрес (например BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</translation>
     </message>
 </context>
 <context>
@@ -1988,7 +1988,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+21"/>
         <source>Sign the message to prove you own this Britcoin address</source>
-        <translation>Подписать сообщение, чтобы доказать владение адресом Britcoin</translation>
+        <translation>Подписать сообщение, чтобы доказать владение адресом BritCoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2020,7 +2020,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+40"/>
         <source>Verify the message to ensure it was signed with the specified Britcoin address</source>
-        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом Britcoin</translation>
+        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом BritCoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2031,7 +2031,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
         <source>Enter a Britcoin address (e.g. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</source>
-        <translation>Введите адрес Britcoin (напр. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</translation>
+        <translation>Введите адрес BritCoin (напр. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2040,8 +2040,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Britcoin signature</source>
-        <translation>Введите подпись Britcoin</translation>
+        <source>Enter BritCoin signature</source>
+        <translation>Введите подпись BritCoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2611,7 +2611,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Britcoin version</source>
+        <source>BritCoin version</source>
         <translation>Версия</translation>
     </message>
     <message>
@@ -2797,8 +2797,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Britcoin will not work properly.</source>
-        <translation>Внимание: убедитесь, что дата и время на Вашем компьютере выставлены верно. Если Ваши часы идут неправильно, Britcoin будет работать некорректно.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong BritCoin will not work properly.</source>
+        <translation>Внимание: убедитесь, что дата и время на Вашем компьютере выставлены верно. Если Ваши часы идут неправильно, BritCoin будет работать некорректно.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2993,7 +2993,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Britcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;BritCoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -3119,13 +3119,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Britcoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Britcoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  BritCoin is probably already running.</source>
         <translation>Невозможно установить блокировку на рабочую директорию %s.  Возможно, бумажник уже запущен.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>Britcoin</source>
-        <translation>Britcoin</translation>
+        <source>BritCoin</source>
+        <translation>BritCoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3159,13 +3159,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Britcoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Britcoin</source>
-        <translation>Ошибка загрузки wallet.dat: бумажник требует более новую версию Britcoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of BritCoin</source>
+        <translation>Ошибка загрузки wallet.dat: бумажник требует более новую версию BritCoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Britcoin to complete</source>
-        <translation>Необходимо перезаписать бумажник, перезапустите Britcoin для завершения операции</translation>
+        <source>Wallet needed to be rewritten: restart BritCoin to complete</source>
+        <translation>Необходимо перезаписать бумажник, перезапустите BritCoin для завершения операции</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3234,8 +3234,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Britcoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Britcoin is probably already running.</source>
-        <translation>Невозможно привязаться к %s на этом компьютере.  Возможно, Britcoin уже работает.</translation>
+        <source>Unable to bind to %s on this computer. BritCoin is probably already running.</source>
+        <translation>Невозможно привязаться к %s на этом компьютере.  Возможно, BritCoin уже работает.</translation>
     </message>
     <message>
         <location line="-97"/>

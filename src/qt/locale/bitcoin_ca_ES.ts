@@ -4,21 +4,21 @@
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About Britcoin</source>
-        <translation>Sobre Britcoin</translation>
+        <translation>Sobre BritCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Britcoin&lt;/b&gt; version</source>
-        <translation>versió &lt;b&gt;Britcoin&lt;/b&gt;</translation>
+        <source>&lt;b&gt;BritCoin&lt;/b&gt; version</source>
+        <translation>versió &lt;b&gt;BritCoin&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Britcoin developers</source>
+Copyright © 2014 The BritCoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Britcoin developers</translation>
+Copyright © 2014 The BritCoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -61,7 +61,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-46"/>
         <source>These are your Britcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Aquestes són les teves adreces de Britcoin per rebre els pagaments. És possible que vulgueu donar una diferent a cada remitent per a poder realitzar un seguiment de qui li está pagant.</translation>
+        <translation>Aquestes són les teves adreces de BritCoin per rebre els pagaments. És possible que vulgueu donar una diferent a cada remitent per a poder realitzar un seguiment de qui li está pagant.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -76,7 +76,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+11"/>
         <source>Sign a message to prove you own a Britcoin address</source>
-        <translation>Signar un missatge per demostrar que és propietari d&apos;una adreça Britcoin</translation>
+        <translation>Signar un missatge per demostrar que és propietari d&apos;una adreça BritCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -91,7 +91,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-14"/>
         <source>Verify a message to ensure it was signed with a specified Britcoin address</source>
-        <translation>Comproveu el missatge per assegurar-se que es va signar amb una adreça Britcoin especificada.</translation>
+        <translation>Comproveu el missatge per assegurar-se que es va signar amb una adreça BritCoin especificada.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -258,8 +258,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>Britcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Britcoin tancarà ara per acabar el procés de xifrat. Recordeu que l&apos;encriptació de la seva cartera no pot protegir completament les seves monedes de ser robades pel malware que pugui infectar al seu equip.</translation>
+        <source>BritCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>BritCoin tancarà ara per acabar el procés de xifrat. Recordeu que l&apos;encriptació de la seva cartera no pot protegir completament les seves monedes de ser robades pel malware que pugui infectar al seu equip.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -373,7 +373,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+6"/>
         <source>Show information about Britcoin</source>
-        <translation>Mostra informació sobre Britcoin</translation>
+        <translation>Mostra informació sobre BritCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -423,12 +423,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-64"/>
         <source>Send coins to a Britcoin address</source>
-        <translation>Enviar monedes a una adreça Britcoin</translation>
+        <translation>Enviar monedes a una adreça BritCoin</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for Britcoin</source>
-        <translation>Modificar les opcions de configuració per a Britcoin</translation>
+        <source>Modify configuration options for BritCoin</source>
+        <translation>Modificar les opcions de configuració per a BritCoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -467,8 +467,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-202"/>
-        <source>Britcoin</source>
-        <translation>Britcoin</translation>
+        <source>BritCoin</source>
+        <translation>BritCoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -478,7 +478,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+180"/>
         <source>&amp;About Britcoin</source>
-        <translation>&amp;Sobre Britcoin</translation>
+        <translation>&amp;Sobre BritCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -534,13 +534,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Britcoin client</source>
-        <translation>Client Britcoin</translation>
+        <source>BritCoin client</source>
+        <translation>Client BritCoin</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to Britcoin network</source>
-        <translation><numerusform>%n conexió activa a la xarxa Britcoin</numerusform><numerusform>%n conexions actives a la xarxa Britcoin</numerusform></translation>
+        <source>%n active connection(s) to BritCoin network</source>
+        <translation><numerusform>%n conexió activa a la xarxa BritCoin</numerusform><numerusform>%n conexions actives a la xarxa BritCoin</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -580,12 +580,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-312"/>
         <source>About Britcoin card</source>
-        <translation>Sobre la tarjeta Britcoin</translation>
+        <translation>Sobre la tarjeta BritCoin</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show information about Britcoin card</source>
-        <translation>Mostra informació sobre la tarjeta Britcoin</translation>
+        <translation>Mostra informació sobre la tarjeta BritCoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -661,7 +661,7 @@ Address: %4
         <location line="-15"/>
         <location line="+15"/>
         <source>URI can not be parsed! This can be caused by an invalid Britcoin address or malformed URI parameters.</source>
-        <translation>l&apos;URI no es pot analitzar! Això pot ser causat per una adreça Britcoin no vàlida o paràmetres URI malformats.</translation>
+        <translation>l&apos;URI no es pot analitzar! Això pot ser causat per una adreça BritCoin no vàlida o paràmetres URI malformats.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -720,8 +720,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Britcoin can no longer continue safely and will quit.</source>
-        <translation>S&apos;ha produït un error fatal. Britcoin ja no pot continuar de forma segura i es tancarà.</translation>
+        <source>A fatal error occurred. BritCoin can no longer continue safely and will quit.</source>
+        <translation>S&apos;ha produït un error fatal. BritCoin ja no pot continuar de forma segura i es tancarà.</translation>
     </message>
 </context>
 <context>
@@ -1055,7 +1055,7 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="-5"/>
         <source>The entered address &quot;%1&quot; is not a valid Britcoin address.</source>
-        <translation>La direcció introduïda &quot;%1&quot; no és una adreça Britcoin vàlida.</translation>
+        <translation>La direcció introduïda &quot;%1&quot; no és una adreça BritCoin vàlida.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1073,8 +1073,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Britcoin-Qt</source>
-        <translation>Britcoin-Qt</translation>
+        <source>BritCoin-Qt</source>
+        <translation>BritCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1146,13 +1146,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Britcoin after logging in to the system.</source>
-        <translation>Inicia automàticament Britcoin després d&apos;entrar en el sistema.</translation>
+        <source>Automatically start BritCoin after logging in to the system.</source>
+        <translation>Inicia automàticament BritCoin després d&apos;entrar en el sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Britcoin on system login</source>
-        <translation>&amp;Iniciar Britcoin amb l&apos;inici de sessió</translation>
+        <source>&amp;Start BritCoin on system login</source>
+        <translation>&amp;Iniciar BritCoin amb l&apos;inici de sessió</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1171,8 +1171,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Britcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Obrir automàticament el port de client Britcoin en el router. Això només funciona quan el router és compatible amb UPnP i està habilitat.</translation>
+        <source>Automatically open the BritCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Obrir automàticament el port de client BritCoin en el router. Això només funciona quan el router és compatible amb UPnP i està habilitat.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1181,8 +1181,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Britcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connecteu-vos a la xarxa Britcoin través d&apos;un proxy SOCKS (per exemple, quan es connecta a través de Tor).</translation>
+        <source>Connect to the BritCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connecteu-vos a la xarxa BritCoin través d&apos;un proxy SOCKS (per exemple, quan es connecta a través de Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1256,8 +1256,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Britcoin.</source>
-        <translation>L&apos;idioma de la interfície d&apos;usuari es pot configurar aquí. Aquesta configuració s&apos;aplicarà després de reiniciar Britcoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting BritCoin.</source>
+        <translation>L&apos;idioma de la interfície d&apos;usuari es pot configurar aquí. Aquesta configuració s&apos;aplicarà després de reiniciar BritCoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1272,7 +1272,7 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="+9"/>
         <source>Whether to show Britcoin addresses in the transaction list or not.</source>
-        <translation>Per mostrar Britcoin adreces a la llista de transaccions o no.</translation>
+        <translation>Per mostrar BritCoin adreces a la llista de transaccions o no.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1318,8 +1318,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Britcoin.</source>
-        <translation>Aquesta configuració s&apos;aplicarà després de reiniciar Britcoin.</translation>
+        <source>This setting will take effect after restarting BritCoin.</source>
+        <translation>Aquesta configuració s&apos;aplicarà després de reiniciar BritCoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1337,8 +1337,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Britcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>La informació mostrada pot estar fora de data. La seva cartera es sincronitza automàticament amb la xarxa Britcoin després d&apos;establir una connexió, però aquest procés no s&apos;ha completat encara.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BritCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>La informació mostrada pot estar fora de data. La seva cartera es sincronitza automàticament amb la xarxa BritCoin després d&apos;establir una connexió, però aquest procés no s&apos;ha completat encara.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1553,8 +1553,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Britcoin-Qt help message to get a list with possible Britcoin command-line options.</source>
-        <translation>Mostra el missatge d&apos;ajuda de Britcoin-Qt per obtenir una llista amb les possibles opcions de línia d&apos;ordres Britcoin.</translation>
+        <source>Show the BritCoin-Qt help message to get a list with possible BritCoin command-line options.</source>
+        <translation>Mostra el missatge d&apos;ajuda de BritCoin-Qt per obtenir una llista amb les possibles opcions de línia d&apos;ordres BritCoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1573,13 +1573,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Britcoin - Debug window</source>
-        <translation>Britcoin - Finestra Depuració</translation>
+        <source>BritCoin - Debug window</source>
+        <translation>BritCoin - Finestra Depuració</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Britcoin Core</source>
-        <translation>Nucli Britcoin</translation>
+        <source>BritCoin Core</source>
+        <translation>Nucli BritCoin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1588,8 +1588,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Britcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Obriu el fitxer de registre de depuració Britcoin des del directori de dades actual. Això pot trigar uns segons en els arxius de registre de grans dimensions.</translation>
+        <source>Open the BritCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Obriu el fitxer de registre de depuració BritCoin des del directori de dades actual. Això pot trigar uns segons en els arxius de registre de grans dimensions.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1598,8 +1598,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Britcoin RPC console.</source>
-        <translation>Benvingut a la consola RPC de Britcoin.</translation>
+        <source>Welcome to the BritCoin RPC console.</source>
+        <translation>Benvingut a la consola RPC de BritCoin.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1758,7 +1758,7 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
         <source>Enter a Britcoin address (e.g. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</source>
-        <translation>Introdueix una adreça Britcoin (p.ex. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</translation>
+        <translation>Introdueix una adreça BritCoin (p.ex. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1858,7 +1858,7 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="+251"/>
         <source>WARNING: Invalid Britcoin address</source>
-        <translation>ADVERTÈNCIA: Direcció Britcoin invàlida</translation>
+        <translation>ADVERTÈNCIA: Direcció BritCoin invàlida</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1932,7 +1932,7 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
         <source>Enter a Britcoin address (e.g. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</source>
-        <translation>Introdueix una adreça Britcoin (p.ex. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</translation>
+        <translation>Introdueix una adreça BritCoin (p.ex. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</translation>
     </message>
 </context>
 <context>
@@ -1993,7 +1993,7 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="+21"/>
         <source>Sign the message to prove you own this Britcoin address</source>
-        <translation>Signar un missatge per demostrar que és propietari d&apos;aquesta adreça Britcoin</translation>
+        <translation>Signar un missatge per demostrar que és propietari d&apos;aquesta adreça BritCoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2025,7 +2025,7 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="+40"/>
         <source>Verify the message to ensure it was signed with the specified Britcoin address</source>
-        <translation>Comproveu el missatge per assegurar-se que es va signar amb l&apos;adreça Britcoin especificada.</translation>
+        <translation>Comproveu el missatge per assegurar-se que es va signar amb l&apos;adreça BritCoin especificada.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2036,7 +2036,7 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
         <source>Enter a Britcoin address (e.g. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</source>
-        <translation>Introdueix una adreça Britcoin (p.ex. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</translation>
+        <translation>Introdueix una adreça BritCoin (p.ex. BDQnBAFxwwmpjAeccX572H8Yj3PwAncGWk)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2045,8 +2045,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Britcoin signature</source>
-        <translation>Introduïu la signatura Britcoin</translation>
+        <source>Enter BritCoin signature</source>
+        <translation>Introduïu la signatura BritCoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2616,8 +2616,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Britcoin version</source>
-        <translation>versió Britcoin</translation>
+        <source>BritCoin version</source>
+        <translation>versió BritCoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2801,8 +2801,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Britcoin will not work properly.</source>
-        <translation>Avís: Comproveu que la data i hora de l&apos;equip siguin correctes! Si el seu rellotge és erroni Britcoin no funcionarà correctament.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong BritCoin will not work properly.</source>
+        <translation>Avís: Comproveu que la data i hora de l&apos;equip siguin correctes! Si el seu rellotge és erroni BritCoin no funcionarà correctament.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2997,7 +2997,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Britcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;BritCoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, ha d&apos;establir un rpcpassword al fitxer de configuració:
 %s
@@ -3008,7 +3008,7 @@ rpcpassword=%s
 El nom d&apos;usuari i contrasenya NO HA DE SER el mateix.
 Si no hi ha l&apos;arxiu, s&apos;ha de crear amb els permisos de només lectura per al propietari.
 També es recomana establir alertnotify per a que se li notifiquin els problemes;
-per exemple: alertnotify=echo %%s | mail -s &quot;Britcoin Alert&quot; admin@foo.com
+per exemple: alertnotify=echo %%s | mail -s &quot;BritCoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3134,13 +3134,13 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Britcoin is probably already running.</source>
-        <translation>No es pot obtenir un bloqueig en el directori de dades %s. Britcoin probablement ja estigui en funcionament.</translation>
+        <source>Cannot obtain a lock on data directory %s.  BritCoin is probably already running.</source>
+        <translation>No es pot obtenir un bloqueig en el directori de dades %s. BritCoin probablement ja estigui en funcionament.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>Britcoin</source>
-        <translation>Britcoin</translation>
+        <source>BritCoin</source>
+        <translation>BritCoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3174,13 +3174,13 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Britcoin</source>
-        <translation>Error en carregar wallet.dat: La cartera requereix la versió més recent de Britcoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of BritCoin</source>
+        <translation>Error en carregar wallet.dat: La cartera requereix la versió més recent de BritCoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Britcoin to complete</source>
-        <translation>La cartera necessita ser reescrita: reiniciar Britcoin per completar</translation>
+        <source>Wallet needed to be rewritten: restart BritCoin to complete</source>
+        <translation>La cartera necessita ser reescrita: reiniciar BritCoin per completar</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3249,8 +3249,8 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Britcoin is probably already running.</source>
-        <translation>No es pot enllaçar a %s en aquest equip. Britcoin probablement ja estigui en funcionament.</translation>
+        <source>Unable to bind to %s on this computer. BritCoin is probably already running.</source>
+        <translation>No es pot enllaçar a %s en aquest equip. BritCoin probablement ja estigui en funcionament.</translation>
     </message>
     <message>
         <location line="-97"/>
