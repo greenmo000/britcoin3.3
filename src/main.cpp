@@ -1024,7 +1024,6 @@ int64_t GetProofOfStakeReward(int64_t nCoinAge, int64_t nFees)
     else // 'max' coin supply has been reached, time for tail emission.  Reduce interest to 0.05%
     {
         nSubsidy = nCoinAge * STAKING_CALCULATION_MODIFIER1_INTEREST / 10000 / 365;
-        
     }
 
     if (fDebug && GetBoolArg("-printcreation"))
